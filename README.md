@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **7,526 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **7,528 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 7,526, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 7,528, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job title | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| JetBrains | [Support Engineer (TeamCity)](https://interviewchamp.ai/jobs/jetbrains-support-engineer-teamcity-4979567101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | Boston, Massachusetts; Foster City, California; Marlton, New Jersey; Remote, United States (Remote) | $144k–$216k | Oct 1 |
+| Bjak | [Principal Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-principal-software-engineer-785b11a6-5859-4432-b4bc-88142e3361c3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Lead Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-lead-software-engineer-ff565823-b101-4f26-ba37-4c4be140d096?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Staff Software Engineer](https://interviewchamp.ai/jobs/bjakcareer-staff-software-engineer-82847f3f-7167-41cf-bae0-37bf9ab80a42?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | United States (Remote) |  | Oct 1 |
 | Bjak | [Lead Engineer - AI Payments App](https://interviewchamp.ai/jobs/bjakcareer-lead-engineer-ai-payments-app-12046b40-d664-4adb-8305-de951d592db3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | United States (Remote) |  | Oct 1 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | Heartflow | [Senior Software Engineer - AWS Cost Optimization](https://interviewchamp.ai/jobs/heartflowinc-senior-software-engineer-aws-cost-optimization-6212545004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | San Francisco, California | From $180k | Sep 30 |
 | EOS | [Senior DevOps Engineer](https://interviewchamp.ai/jobs/eositsolutions-senior-devops-engineer-8845370002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | Miami, Florida, United States | $130k–$140k | Sep 30 |
 | Commonwealth Fusion Systems | [Senior Manufacturing Engineer - Assembly](https://interviewchamp.ai/jobs/cfsenergy-senior-manufacturing-engineer-assembly-9901cb0f-d3df-450e-8708-ac4c2b51fdbb?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | Devens, MA | $110k–$185k | Sep 30 |
-| Block | [Software Engineer, Program Engineering](https://interviewchamp.ai/jobs/block-software-engineer-program-engineering-5427880008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | Bay Area, CA, United States of America | $217.8k–$326.8k | Sep 30 |
-| Toshiba Global Commerce Solutions - External | [Senior Software Architect](https://interviewchamp.ai/jobs/toshibaglobalcommercesolutions-senior-software-architect-5249278007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs) | Durham, NC |  | Sep 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-01 08:41 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-01 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

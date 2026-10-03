@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,611 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,613 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,611, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,613, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Redwood Materials](https://redwoodmaterials.com)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/redwoodmaterials-senior-devops-engineer-6193352004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | McCarran, NV | On-site |  | Oct 3 |
+| **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Senior Manufacturing Engineer](https://interviewchamp.ai/jobs/cesiumastro-senior-manufacturing-engineer-29bb8267-8fe3-4f58-bed4-701bdc473b60?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Westminster, CO | On-site | $113k–$136k | Oct 3 |
+| **[Anduril Industries](https://anduril.com)** | **[Systems Test Engineer, IBCS-M](https://interviewchamp.ai/jobs/andurilindustries-systems-test-engineer-ibcs-m-5255079007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Costa Mesa, California, United States | On-site | $112k–$149k | Oct 3 |
 | **[Plasmidsaurus](https://jobs.ashbyhq.com/plasmidsaurus)** | **[Product Manager \| Software](https://interviewchamp.ai/jobs/plasmidsaurus-product-manager-software-eb8223fb-6489-42ba-8cee-bc553e876fda?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote | $175k–$235k | Oct 3 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Software Engineer, Enterprise Controls](https://interviewchamp.ai/jobs/openai-software-engineer-enterprise-controls-88164d12-c8ed-4b62-ae26-dcb6f1cc8482?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $230k–$385k | Oct 3 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Software Engineer, OpenAI Presence](https://interviewchamp.ai/jobs/openai-software-engineer-openai-presence-b94099f6-8418-48b0-82b5-5953a27d636f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $230k–$385k | Oct 3 |
@@ -43,7 +46,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[FluidStack](https://fluidstack.io)** | **[Forward Deployed Engineer, Manufacturing & Supply Chain](https://interviewchamp.ai/jobs/fluidstack-forward-deployed-engineer-manufacturing-supply-chain-f55e793b-ef9b-4e70-8c6b-6b0de57658e9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, NY | On-site | $224k–$300k | Oct 3 |
 | **[Anduril Industries](https://anduril.com)** | **[Software Quality Engineer, Radar](https://interviewchamp.ai/jobs/andurilindustries-software-quality-engineer-radar-5256304007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Collins, Colorado, United States | On-site | $111k–$147k | Oct 3 |
 | **[Anduril Industries](https://anduril.com)** | **[Platform Engineer, Radar](https://interviewchamp.ai/jobs/andurilindustries-platform-engineer-radar-5256305007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Collins, Colorado, United States | On-site | $111k–$147k | Oct 3 |
-| **[Anduril Industries](https://anduril.com)** | **[DevOps Engineer, Radar](https://interviewchamp.ai/jobs/andurilindustries-devops-engineer-radar-5256306007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Collins, Colorado, United States | On-site | $111k–$147k | Oct 3 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Flight Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-flight-software-engineer-8012154003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 3 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Embedded Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-embedded-software-engineer-8012153003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 3 |
 | **[Varda Space Industries](https://varda.com)** | **[Build Reliability Engineer II](https://interviewchamp.ai/jobs/vardaspace-build-reliability-engineer-ii-8012150003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $119.5k–$152.7k | Oct 3 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Ridealso](https://jobs.ashbyhq.com/Ridealso)** | **[Staff Vehicle Dynamics Controls Engineer](https://interviewchamp.ai/jobs/ridealso-staff-vehicle-dynamics-controls-engineer-303234be-8be9-4f3f-beee-191f2e977508?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto | On-site | $225k–$275k | Oct 2 |
 | **[Freedom Technology Solutions Group](https://job-boards.greenhouse.io/freedomconsulting)** | **[Firewall Engineer 792](https://interviewchamp.ai/jobs/freedomconsulting-firewall-engineer-792-5255662007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | St. Louis, MO | On-site |  | Oct 2 |
 | **[Zone 5 Technologies](https://job-boards.greenhouse.io/zone5technologies)** | **[Developmental Test Engineer](https://interviewchamp.ai/jobs/zone5technologies-developmental-test-engineer-4890368008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Luis Obispo, California | On-site | $170k–$205k | Oct 2 |
-| **[ispace](https://ispace.co.jp)** | **[Electrical Test Engineer](https://interviewchamp.ai/jobs/ispace-inc-electrical-test-engineer-ed8f2098-7735-4908-8921-4fdc2bc9df4c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Englewood, Colorado | On-site | $101k–$152k | Oct 2 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[QA Engineer](https://interviewchamp.ai/jobs/clera-qa-engineer-578fa186-8ba5-4176-a014-45b97f92b203?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $180k–$200k | Oct 2 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-03 09:37 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-03 16:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

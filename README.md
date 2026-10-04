@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,565 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,561 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,565, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,561, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[SpaceX](https://spacex.com)** | **[Power Electronics Engineer, Satellites (Starlink)](https://interviewchamp.ai/jobs/spacex-power-electronics-engineer-satellites-starlink-8788378002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Redmond, WA | On-site |  | Oct 4 |
 | **[Ambrook](https://ambrook.com)** | **[Software Engineer, AI](https://interviewchamp.ai/jobs/ambrook-software-engineer-ai-3b116b4f-d264-4ac4-92cb-deacdd7656ef?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote | $115k–$280k | Oct 4 |
 | **[Antora Energy](https://job-boards.greenhouse.io/antora)** | **[Sr. Manufacturing Engineer](https://interviewchamp.ai/jobs/antora-sr-manufacturing-engineer-6212491004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, CA | On-site | From $131k | Oct 4 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Agentic Engineer](https://interviewchamp.ai/jobs/clera-founding-agentic-engineer-bd46678a-c165-4627-9762-bc6f59acbf83?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$300k | Oct 4 |
@@ -60,7 +61,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[SpaceX](https://spacex.com)** | **[Product Operations Engineer, Government Applications Special Programs](https://interviewchamp.ai/jobs/spacex-product-operations-engineer-government-applications-special-programs-8864991002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto, CA | On-site |  | Oct 3 |
 | **[SpaceX](https://spacex.com)** | **[Product Operations Engineer, Government Applications Special Programs](https://interviewchamp.ai/jobs/spacex-product-operations-engineer-government-applications-special-programs-8865057002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site |  | Oct 3 |
 | **[Antora Energy](https://job-boards.greenhouse.io/antora)** | **[Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing](https://interviewchamp.ai/jobs/antora-senior-mechanical-engineer-thermophotovoltaic-hardware-manufacturing-6216389004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, CA | On-site | From $115k | Oct 3 |
-| **[SpaceX](https://spacex.com)** | **[Sr. AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance](https://interviewchamp.ai/jobs/spacex-sr-ai-engineer-compute-infrastructure-special-programs-top-secret-clearance-8865268002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site | $220k–$350k | Oct 3 |
 | **[United States Army Installation Management Command](https://www.usajobs.gov)** | **[SUPERVISORY GENERAL ENGINEER](https://interviewchamp.ai/jobs/united-states-army-installation-management-command-usajobs-supervisory-general-engineer-887478300?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Wainwright, Alaska | On-site | $120,348–$156,455 | Oct 3 |
 | **[Accenture Federal Services](https://accenturefederal.com)** | **[USPS PMO MS365 Developer](https://interviewchamp.ai/jobs/accenturefederalservices-usps-pmo-ms365-developer-4718857006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $106.3k–$206.2k | Oct 2 |
 | **[The Pokémon Company International](https://job-boards.greenhouse.io/pokemoncareers)** | **[Automated Retail Technical Operations Engineer](https://interviewchamp.ai/jobs/pokemoncareers-automated-retail-technical-operations-engineer-8008570003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Redmond, Washington, United States | On-site | $95k–$172k | Oct 2 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-04 20:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-04 21:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

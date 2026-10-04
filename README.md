@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,601 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,565 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,601, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,565, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,11 +32,13 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Ambrook](https://ambrook.com)** | **[Software Engineer, AI](https://interviewchamp.ai/jobs/ambrook-software-engineer-ai-3b116b4f-d264-4ac4-92cb-deacdd7656ef?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote | $115k–$280k | Oct 4 |
+| **[Antora Energy](https://job-boards.greenhouse.io/antora)** | **[Sr. Manufacturing Engineer](https://interviewchamp.ai/jobs/antora-sr-manufacturing-engineer-6212491004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, CA | On-site | From $131k | Oct 4 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Agentic Engineer](https://interviewchamp.ai/jobs/clera-founding-agentic-engineer-bd46678a-c165-4627-9762-bc6f59acbf83?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$300k | Oct 4 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-bff6008f-ef02-4ee0-a652-75197445cf99?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York (Remote) | Remote | $150k–$220k | Oct 4 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/clera-senior-software-engineer-8430448f-85fc-4e31-bde9-6191664cb020?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $130k–$220k | Oct 4 |
 | **[Sentry](https://sentry.io)** | **[Staff Software Engineer, AI Developer Tooling](https://interviewchamp.ai/jobs/sentry-staff-software-engineer-ai-developer-tooling-c00e77f5-bd58-49da-b4a8-3b6249529747?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California (Remote) | Remote | $220k–$400k | Oct 4 |
 | **[Code Metal](https://jobs.ashbyhq.com/code-metal)** | **[Lead Backend Engineer (Modeling & Simulation)](https://interviewchamp.ai/jobs/code-metal-lead-backend-engineer-modeling-simulation-a6d25a63-446e-4c04-964b-775b6ee9e240?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boston Hub (Remote) | Remote |  | Oct 3 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Data Engineer, Pricing and Comps](https://interviewchamp.ai/jobs/clera-senior-data-engineer-pricing-and-comps-2219e267-ae83-444b-a812-c9218203b206?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$220k | Oct 3 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding ML Engineer, Computer Vision (Object Detection)](https://interviewchamp.ai/jobs/clera-founding-ml-engineer-computer-vision-object-detection-fd55611f-00be-40e0-adeb-ae9a73ac1c7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $200k–$260k | Oct 3 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-68851d97-7804-4dce-9657-84f9755aa885?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$200k | Oct 3 |
 | **[Redwood Materials](https://redwoodmaterials.com)** | **[Senior DevOps Engineer](https://interviewchamp.ai/jobs/redwoodmaterials-senior-devops-engineer-6193352004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | McCarran, NV | On-site |  | Oct 3 |
 | **[Cesium Astro](https://jobs.lever.co/CesiumAstro)** | **[Senior Manufacturing Engineer](https://interviewchamp.ai/jobs/cesiumastro-senior-manufacturing-engineer-29bb8267-8fe3-4f58-bed4-701bdc473b60?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Westminster, CO | On-site | $113k–$136k | Oct 3 |
 | **[Anduril Industries](https://anduril.com)** | **[Systems Test Engineer, IBCS-M](https://interviewchamp.ai/jobs/andurilindustries-systems-test-engineer-ibcs-m-5255079007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Costa Mesa, California, United States | On-site | $112k–$149k | Oct 3 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Sentry](https://sentry.io)** | **[Senior Software Engineer, Billing Platform](https://interviewchamp.ai/jobs/sentry-senior-software-engineer-billing-platform-f7b4f37b-4293-433d-910e-9033bf10d6d4?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California (Remote) | Remote | $215k–$400k | Oct 2 |
 | **[Braze](https://braze.com)** | **[Staff Software Engineer, User Targeting](https://interviewchamp.ai/jobs/braze-staff-software-engineer-user-targeting-8238548?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | From $184k | Oct 2 |
 | **[Braze](https://braze.com)** | **[Staff Software Engineer, User Targeting](https://interviewchamp.ai/jobs/braze-staff-software-engineer-user-targeting-8238546?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago | On-site | From $184k | Oct 2 |
-| **[Braze](https://braze.com)** | **[Staff Software Engineer, User Targeting](https://interviewchamp.ai/jobs/braze-staff-software-engineer-user-targeting-8238544?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin | On-site | From $184k | Oct 2 |
-| **[Samsara](https://samsara.com)** | **[Software Engineer II](https://interviewchamp.ai/jobs/samsara-software-engineer-ii-8223645?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - US (Remote) | Remote |  | Oct 2 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-04 13:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-04 20:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

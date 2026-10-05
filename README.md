@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,567 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,566 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,567, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,566, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[3Commas](https://3commas.io)** | **[Agentic AI Engineer](https://interviewchamp.ai/jobs/3commas-agentic-ai-engineer-5ad20b42-6b07-4c79-a383-d935a085b660?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (Remote) | Remote |  | Oct 5 |
+| **[Coram AI](https://jobs.ashbyhq.com/coram-ai)** | **[Member of Technical Staff, Frontend](https://interviewchamp.ai/jobs/coram-ai-member-of-technical-staff-frontend-41c69d19-c28b-4d3c-9814-90e60616171c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Sunnyvale | On-site |  | Oct 5 |
+| **[Coram AI](https://jobs.ashbyhq.com/coram-ai)** | **[Member of Technical Staff, Full Stack](https://interviewchamp.ai/jobs/coram-ai-member-of-technical-staff-full-stack-a6ceee18-33ae-40e6-9a1f-2f178c7199c5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Sunnyvale | On-site |  | Oct 5 |
 | **[Nurix](https://job-boards.greenhouse.io/nurix)** | **[Principal Engineer, Pharmaceutical Development](https://interviewchamp.ai/jobs/nurix-principal-engineer-pharmaceutical-development-8867579002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Brisbane, California | On-site | $195.3k–$222.9k | Oct 5 |
 | **[Rain](https://jobs.ashbyhq.com/rain)** | **[Security Engineer - AppSec](https://interviewchamp.ai/jobs/rain-security-engineer-appsec-7e211b55-5069-45b2-8072-c6555a5b53cd?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (Remote) | Remote | $190k–$240k | Oct 5 |
 | **[Anduril Industries](https://anduril.com)** | **[NX CAD Support Engineer](https://interviewchamp.ai/jobs/andurilindustries-nx-cad-support-engineer-5256525007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mountain View, California, United States | On-site | $140k–$186k | Oct 5 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Amylyx Pharmaceuticals](https://job-boards.greenhouse.io/amylyx)** | **[Senior Process Engineer, MSAT, Drug Substance](https://interviewchamp.ai/jobs/amylyx-senior-process-engineer-msat-drug-substance-6216022004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cambridge, MA | On-site | $156k–$176k | Oct 2 |
 | **[airbnb](https://airbnb.com)** | **[Senior Software Engineer Guest & Host](https://interviewchamp.ai/jobs/airbnb-senior-software-engineer-guest-host-8249626?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, USA (Remote) | Remote |  | Oct 2 |
 | **[Green Thumb](https://job-boards.greenhouse.io/greenthumbindustries)** | **[Associate IT Operations Engineer](https://interviewchamp.ai/jobs/greenthumbindustries-associate-it-operations-engineer-8227636?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (Remote) | Remote | $65k–$75k | Oct 2 |
-| **[Ro](https://jobs.lever.co/ro)** | **[Staff Software Engineer/Tech Lead, Patient Experience](https://interviewchamp.ai/jobs/ro-staff-software-engineer-tech-lead-patient-experience-96db2e06-3776-42f3-adfd-86dee386a0a6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, NY | Hybrid | $223.1k–$311k | Oct 2 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-05 06:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-05 09:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

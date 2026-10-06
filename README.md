@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,777 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,768 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,777, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,768, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,7 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Dryft](https://jobs.ashbyhq.com/dryft)** | **[Full-Stack Engineering Intern](https://interviewchamp.ai/jobs/dryft-full-stack-engineering-intern-d4c7d1cd-a4e3-440e-ad53-4dab3391d883?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, US | On-site |  | Oct 6 |
+| **[Qualdoc](https://jobs.lever.co/qualdoc)** | **[CNC Machinist / Programmer](https://interviewchamp.ai/jobs/qualdoc-cnc-machinist-programmer-e1506560-04e1-4788-848e-e3a104a27bb3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Ashland, VA | On-site |  | Oct 6 |
 | **[Nectar Social](https://jobs.ashbyhq.com/nectar-social)** | **[Contract Full Stack Editor](https://interviewchamp.ai/jobs/nectar-social-contract-full-stack-editor-a7f7e374-4691-437e-abe9-6e41743b6c65?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto, CA (Remote) | Remote |  | Oct 6 |
 | **[Human Interest](https://job-boards.greenhouse.io/humaninterest)** | **[Senior Software Engineer, Data Platform](https://interviewchamp.ai/jobs/humaninterest-senior-software-engineer-data-platform-8240178?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States, Remote (Remote) | Remote | $190k–$230k | Oct 6 |
 | **[Crusoe](https://jobs.ashbyhq.com/Crusoe)** | **[Senior Automation Engineer, Compute](https://interviewchamp.ai/jobs/crusoe-senior-automation-engineer-compute-11cd72b6-4bb0-4e32-9d7d-6b5cb72cce37?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA - US | On-site |  | Oct 6 |
@@ -61,8 +61,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Skydio](https://skydio.com)** | **[Senior Supplier Quality Engineer - Camera](https://interviewchamp.ai/jobs/skydio-senior-supplier-quality-engineer-camera-a5fb3aca-e6b7-4169-8362-41e9b8269281?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, California, United States (Remote) | Remote | $145k–$219k | Oct 6 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Sr. Design Validation and Test Engineer](https://interviewchamp.ai/jobs/lucidmotors-sr-design-validation-and-test-engineer-5242877007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Newark, CA | On-site | $144k–$198k | Oct 6 |
 | **[Plaid](https://plaid.com)** | **[Technical Support Engineer](https://interviewchamp.ai/jobs/plaid-technical-support-engineer-9de91efe-7adc-4288-87fb-7bd04af36b3b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco HQ (Remote) | Remote | $73.9k–$110k | Oct 6 |
-| **[Dryft](https://jobs.ashbyhq.com/dryft)** | **[Founding Forward Deployed Engineer](https://interviewchamp.ai/jobs/dryft-founding-forward-deployed-engineer-d6c64e84-8285-4337-947b-fa29de5fa1c6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, US | On-site |  | Oct 6 |
-| **[Dryft](https://jobs.ashbyhq.com/dryft)** | **[Founding Full-Stack Engineer](https://interviewchamp.ai/jobs/dryft-founding-full-stack-engineer-fd239018-febd-4fd7-910a-4f0f1b7208cd?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, US | On-site |  | Oct 6 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Sr. Design Validation and Test Engineer](https://interviewchamp.ai/jobs/lucidmotors-sr-design-validation-and-test-engineer-5242872007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Newark, CA | On-site | $144k–$198k | Oct 6 |
 | **[airbnb](https://airbnb.com)** | **[Staff Software Engineer, Cloud Infrastructure](https://interviewchamp.ai/jobs/airbnb-staff-software-engineer-cloud-infrastructure-8257909?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, USA (Remote) | Remote | $212k–$265k | Oct 6 |
 | **[Field AI](https://jobs.lever.co/field-ai)** | **[Mechanical Engineer Internship, Robotics Hardware](https://interviewchamp.ai/jobs/field-ai-mechanical-engineer-internship-robotics-hardware-5ae428f8-ac13-49b2-a244-fb97d31bfc79?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boston, MA | On-site |  | Oct 6 |
@@ -182,7 +180,9 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[DebtBook](https://debtbook.com)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/debtbook-senior-software-engineer-4740544005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Charlotte, NC | On-site | $125k–$160k | Oct 5 |
 | **[DebtBook](https://debtbook.com)** | **[Solutions Engineer](https://interviewchamp.ai/jobs/debtbook-solutions-engineer-4740543005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Charlotte, NC | On-site |  | Oct 5 |
 | **[AIRCO](https://job-boards.greenhouse.io/aircompany)** | **[Principal Electrical Engineer](https://interviewchamp.ai/jobs/aircompany-principal-electrical-engineer-4740485005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New Britain, Pennsylvania, United States | On-site |  | Oct 5 |
+| **[Roblox](https://roblox.com)** | **[Principal Software Engineer, App Performance](https://interviewchamp.ai/jobs/roblox-principal-software-engineer-app-performance-8233354?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA, United States | On-site | $295.3k–$345k | Oct 5 |
+| **[DebtBook](https://debtbook.com)** | **[Software Engineer](https://interviewchamp.ai/jobs/debtbook-software-engineer-4740535005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Charlotte, NC | On-site | $90k–$125k | Oct 5 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-06 06:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-06 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **8,929 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **8,928 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 8,929, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 8,928, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Robinhood](https://robinhood.com)** | **[Software Engineer, Web3 Backend](https://interviewchamp.ai/jobs/robinhood-software-engineer-web3-backend-8258305?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Menlo Park, CA; New York, NY | On-site | $166k–$195k | Oct 7 |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[AI SW Intern, Cloud, Infrastructure & Data Centre Deployment](https://interviewchamp.ai/jobs/tenstorrentuniversity-ai-sw-intern-cloud-infrastructure-data-centre-deployment-5256686007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, Texas, United States; Santa Clara, California, United States | On-site |  | Oct 7 |
+| **[Tenstorrent University Jobs](https://job-boards.greenhouse.io/tenstorrentuniversity)** | **[AI Software Intern](https://interviewchamp.ai/jobs/tenstorrentuniversity-ai-software-intern-5258901007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, Texas, United States; Santa Clara, California, United States | On-site |  | Oct 7 |
 | **[Northwood Space](https://jobs.ashbyhq.com/NorthwoodSpace)** | **[Lead Electrical Engineer](https://interviewchamp.ai/jobs/northwoodspace-lead-electrical-engineer-0024d49f-5971-4db0-8f09-5cb7d63f407b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Torrance, CA | On-site | $144k–$255k | Oct 7 |
 | **[Crusoe](https://jobs.ashbyhq.com/Crusoe)** | **[Senior Staff Software Engineer, Cloud Availability Platform](https://interviewchamp.ai/jobs/crusoe-senior-staff-software-engineer-cloud-availability-platform-a14be664-690f-4c05-aa5a-837f866fc30e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA - US | On-site |  | Oct 7 |
 | **[Hadrian](https://jobs.ashbyhq.com/hadrian-automation)** | **[Manufacturing Engineer, Sheet Metal](https://interviewchamp.ai/jobs/hadrian-automation-manufacturing-engineer-sheet-metal-0cfc04ce-8bd1-4b64-9b36-113f96e4cb05?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA | On-site | $106k–$181k | Oct 7 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Observable Space](https://jobs.ashbyhq.com/observable-space)** | **[Sr. Electrical Engineer, Avionics](https://interviewchamp.ai/jobs/observable-space-sr-electrical-engineer-avionics-ea5aff33-1370-47bc-a3d4-c367ef7b2e6d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA (Remote) | Remote | $160k–$200k | Oct 6 |
 | **[Observable Space](https://jobs.ashbyhq.com/observable-space)** | **[Sr. Electrical Engineer, Lasercom](https://interviewchamp.ai/jobs/observable-space-sr-electrical-engineer-lasercom-000962e6-5a99-4643-8539-3fb14215874c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA (Remote) | Remote |  | Oct 6 |
 | **[Observable Space](https://jobs.ashbyhq.com/observable-space)** | **[Sr. Mechanical Engineer](https://interviewchamp.ai/jobs/observable-space-sr-mechanical-engineer-8fdd6a46-94cd-400f-b822-daa494da2699?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA (Remote) | Remote | $130k–$180k | Oct 6 |
-| **[Space Systems Command](https://www.usajobs.gov)** | **[Mission Partner Cybersecurity Engineer, SYD 85](https://interviewchamp.ai/jobs/space-systems-command-usajobs-mission-partner-cybersecurity-engineer-syd-85-887860600?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Paso County, Colorado | On-site | $91,870–$142,022 | Oct 6 |
-| **[True Anomaly](https://trueanomaly.com)** | **[Principal Digital Signal Processing Engineer, RF Payloads](https://interviewchamp.ai/jobs/trueanomalyinc-principal-digital-signal-processing-engineer-rf-payloads-5255948007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Denver, CO or Long Beach, CA | On-site | $190k–$275k | Oct 6 |
-| **[True Anomaly](https://trueanomaly.com)** | **[Senior Dynamics Analysis Engineer](https://interviewchamp.ai/jobs/trueanomalyinc-senior-dynamics-analysis-engineer-5255689007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Denver, CO or Long Beach, CA | On-site | $135k–$200k | Oct 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-07 06:46 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-07 09:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

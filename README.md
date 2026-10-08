@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **9,054 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **9,055 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 9,054, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 9,055, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Via](https://job-boards.greenhouse.io/via)** | **[Senior Software Engineer - Optimization, Remix](https://interviewchamp.ai/jobs/via-senior-software-engineer-optimization-remix-8878385002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York | On-site | $180k–$220k | Oct 8 |
+| **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Software Engineer, Intern - Labs (Summer 2027)](https://interviewchamp.ai/jobs/doordashusa-software-engineer-intern-labs-summer-2027-8263774?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA; Sunnyvale, CA | On-site | $107.4k–$158k | Oct 8 |
 | **[Zscaler](https://zscaler.com)** | **[Staff Software Development Engineer (Microservices)](https://interviewchamp.ai/jobs/zscaler-staff-software-development-engineer-microservices-5260367007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, California, USA | On-site | $133k–$190k | Oct 8 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Software Development Engineer (Microservices)](https://interviewchamp.ai/jobs/zscaler-principal-software-development-engineer-microservices-5260359007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, California, USA | On-site | $185.5k–$265k | Oct 8 |
 | **[Panthalassa](https://job-boards.greenhouse.io/panthalassa)** | **[Senior Power Infrastructure Engineer](https://interviewchamp.ai/jobs/panthalassa-senior-power-infrastructure-engineer-6220129004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Portland, OR | On-site | $175k–$225k | Oct 8 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Clarity Innovations](https://job-boards.greenhouse.io/clarityinnovates)** | **[Sr. Principal Reverse Engineering/Vulnerability Research Engineer](https://interviewchamp.ai/jobs/clarityinnovates-sr-principal-reverse-engineering-vulnerability-research-engineer-5259231007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Rome, NY | On-site |  | Oct 7 |
 | **[Redwood Materials](https://redwoodmaterials.com)** | **[Staff Electrical Engineer, Energy Storage BoP](https://interviewchamp.ai/jobs/redwoodmaterials-staff-electrical-engineer-energy-storage-bop-6217866004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California, United States | On-site |  | Oct 7 |
 | **[Redwood Materials](https://redwoodmaterials.com)** | **[Power Systems Engineer, Energy Storage](https://interviewchamp.ai/jobs/redwoodmaterials-power-systems-engineer-energy-storage-6217867004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California, United States | On-site |  | Oct 7 |
-| **[Waymo](https://waymo.com)** | **[Software Engineer, Real-Time Communication Infrastructure](https://interviewchamp.ai/jobs/waymo-software-engineer-real-time-communication-infrastructure-7917911?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mountain View, CA, USA | On-site | $213k–$263k | Oct 7 |
-| **[Elise AI](https://jobs.ashbyhq.com/EliseAI)** | **[Partnerships Integration Solutions Engineer](https://interviewchamp.ai/jobs/eliseai-partnerships-integration-solutions-engineer-717fbb54-35f6-44df-88dc-d9e7669c9b93?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $135k–$200k | Oct 7 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-08 06:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-08 09:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

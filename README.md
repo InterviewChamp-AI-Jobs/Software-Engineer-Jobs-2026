@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,193 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,195 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,193, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,195, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Alluxio](https://jobs.lever.co/alluxio)** | **[Software Engineer – Distributed Systems](https://interviewchamp.ai/jobs/alluxio-software-engineer-distributed-systems-75e69e43-6658-4fe7-a51b-2b7921def1c2?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, California | On-site |  | Oct 10 |
+| **[Luma Health](https://job-boards.greenhouse.io/lumahealth)** | **[Sales Engineer](https://interviewchamp.ai/jobs/lumahealth-sales-engineer-8882744002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote USA | Remote | $120k–$140k | Oct 10 |
 | **[Fehr & Peers](https://fehrandpeers.com)** | **[Experienced Complete Streets Designer/Civil Engineer](https://interviewchamp.ai/jobs/fehrandpeers-experienced-complete-streets-designer-civil-engineer-a71e2dd5-a09e-437d-aea8-eaeb222f9620?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, California | On-site | $110k–$155k | Oct 10 |
 | **[Reliable Robotics](https://jobs.ashbyhq.com/reliable-robotics)** | **[Sr. FPGA Verification Engineer, Radar](https://interviewchamp.ai/jobs/reliable-robotics-sr-fpga-verification-engineer-radar-91bfc343-75aa-40bd-a47d-5aac0957fde8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, WA | On-site | $215k–$300k | Oct 10 |
 | **[Reliable Robotics](https://jobs.ashbyhq.com/reliable-robotics)** | **[Sr. FPGA Design Engineer, Radar](https://interviewchamp.ai/jobs/reliable-robotics-sr-fpga-design-engineer-radar-a7bd72ce-4217-4a48-8845-9ceea8690880?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, WA | On-site | $215k–$300k | Oct 10 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Samsara](https://samsara.com)** | **[Staff Software Engineer, Maps Services](https://interviewchamp.ai/jobs/samsara-staff-software-engineer-maps-services-8267637?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - US | Remote | $162.4k–$290k | Oct 9 |
 | **[Robinhood](https://robinhood.com)** | **[Senior Technical Recruiter, Infrastructure](https://interviewchamp.ai/jobs/robinhood-senior-technical-recruiter-infrastructure-8259694?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago, IL; Menlo Park, CA | On-site | $128k–$150k | Oct 9 |
 | **[Cognite - AI for Industry](https://job-boards.eu.greenhouse.io)** | **[Software Engineer](https://interviewchamp.ai/jobs/cognite-software-engineer-5000022101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | USA (Phoenix) | On-site |  | Oct 9 |
-| **[Fortreum](https://jobs.ashbyhq.com/fortreum)** | **[DevSecOps Engineer - Leesburg](https://interviewchamp.ai/jobs/fortreum-devsecops-engineer-leesburg-63d8d760-5f3b-4b0d-b0e9-5d7b1ac73279?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Leesburg, VA (Remote) | Remote | $155k–$205k | Oct 9 |
-| **[Fortreum](https://jobs.ashbyhq.com/fortreum)** | **[DevSecOps Engineer - Reston](https://interviewchamp.ai/jobs/fortreum-devsecops-engineer-reston-58dca055-baaa-4e5f-b7ec-681a99644e15?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Reston, VA | On-site | $155k–$205k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-10 09:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-10 12:44 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

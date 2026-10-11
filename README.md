@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,198 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,184 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,198, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,184, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Lorikeet](https://jobs.ashbyhq.com/lorikeet)** | **[Principal Software Engineer](https://interviewchamp.ai/jobs/lorikeet-principal-software-engineer-4ae5de01-a973-4720-baca-d63581572860?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City (US-Onsite) | On-site |  | Oct 11 |
+| **[Clark](https://jobs.ashbyhq.com/clark)** | **[Junior Forward Deployed Engineer](https://interviewchamp.ai/jobs/clark-junior-forward-deployed-engineer-e39423ba-10f6-44bb-a20f-5ccd33d53c52?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $100k–$130k | Oct 11 |
 | **[Faros AI](https://jobs.ashbyhq.com/faros-ai)** | **[Lead Software Engineer - Frontend](https://interviewchamp.ai/jobs/faros-ai-lead-software-engineer-frontend-8f94a7f5-6cc1-4f3a-b939-8d52dbdbcd32?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Redwood City (Remote) | Remote | $210k–$250k | Oct 11 |
 | **[1X](https://jobs.ashbyhq.com/1x)** | **[Manufacturing Engineer, Battery](https://interviewchamp.ai/jobs/1x-manufacturing-engineer-battery-f6a1ed96-2328-44da-acf7-db4ea8d1476e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Carlos, CA | On-site | $121k–$181k | Oct 11 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-e67943d6-36a4-4807-929a-f6996618540a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 11 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Blend](https://job-boards.greenhouse.io/blend)** | **[Senior Helpdesk Engineer](https://interviewchamp.ai/jobs/blend-senior-helpdesk-engineer-6220332004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $90k–$106k | Oct 9 |
 | **[Gen Digital](https://gendigital.com)** | **[Principal Forward Deployed Engineer](https://interviewchamp.ai/jobs/gen-digital-principal-forward-deployed-engineer-cd2c76dd-f7a6-40af-b06c-ec01d8b642aa?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | USA - New York, NY (Remote) | Remote | $200k–$240k | Oct 9 |
 | **[Gravitics, Inc](https://job-boards.greenhouse.io/graviticsinc)** | **[Lead System Safety Engineer](https://interviewchamp.ai/jobs/graviticsinc-lead-system-safety-engineer-4444461009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Greater Seattle Area, Greater Denver Area, Cape Canaveral, FL, Houston, TX | On-site | $150k–$190k | Oct 9 |
-| **[Lambda](https://jobs.ashbyhq.com/Lambda)** | **[Network Infrastructure Delivery Manager](https://interviewchamp.ai/jobs/lambda-network-infrastructure-delivery-manager-94c22eec-bd2d-40ab-82ce-b71adc28fabb?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco Office (Fremont St) (Remote) | Remote | $196k–$290k | Oct 9 |
-| **[PointClickCare](https://jobs.lever.co/pointclickcare)** | **[Intermediate Software Engineer-(A&P)](https://interviewchamp.ai/jobs/pointclickcare-intermediate-software-engineer-a-p-6c8f4d1f-c1c7-480f-bd17-45927fd23741?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Salt Lake City, UT | Hybrid | $123k–$137k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-11 12:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-11 15:39 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

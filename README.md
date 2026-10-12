@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,136 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,128 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,136, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,128, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -40,6 +40,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Varda Space Industries](https://varda.com)** | **[Senior Mission Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-mission-software-engineer-8025646003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 12 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Flight Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-flight-software-engineer-8025645003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 12 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Embedded Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-embedded-software-engineer-8025638003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 12 |
+| **[National Institutes of Health](https://www.usajobs.gov)** | **[General Engineer (Cyclotron)](https://interviewchamp.ai/jobs/national-institutes-of-health-usajobs-general-engineer-cyclotron-887831500?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Montgomery County, Maryland | On-site | $102,415–$158,322 | Oct 12 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Senior Machine Learning Engineer II (EO/IR Image Analysis)](https://interviewchamp.ai/jobs/rocketlab-senior-machine-learning-engineer-ii-eo-ir-image-analysis-8025569003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Tucson, AZ | On-site |  | Oct 11 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Senior Machine Learning Engineer II (EO/IR Image Analysis)](https://interviewchamp.ai/jobs/rocketlab-senior-machine-learning-engineer-ii-eo-ir-image-analysis-8025567003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, CA | On-site | $130k–$229.1k | Oct 11 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Senior Machine Learning Engineer II (EO/IR Image Analysis)](https://interviewchamp.ai/jobs/rocketlab-senior-machine-learning-engineer-ii-eo-ir-image-analysis-8025565003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chantilly, VA | On-site | $130k–$229.1k | Oct 11 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Gallatin AI](https://jobs.ashbyhq.com/gallatin)** | **[AI Software Engineer](https://interviewchamp.ai/jobs/gallatin-ai-software-engineer-a9088c68-98e4-4854-a5fb-e9d0ec6ebc5a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, CA | On-site | $80k–$210k | Oct 9 |
 | **[Zoro](https://www.zoro.com)** | **[Software Engineer II, Data & ML Platform](https://interviewchamp.ai/jobs/zoro-software-engineer-ii-data-ml-platform-4720769006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago, Illinois, United States | On-site | $78.9k–$131.6k | Oct 9 |
 | **[Cognite - AI for Industry](https://job-boards.eu.greenhouse.io)** | **[Senior Field Engineer (Pre-Sales/Forward Deployed)](https://interviewchamp.ai/jobs/cognite-senior-field-engineer-pre-sales-forward-deployed-5002767101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | USA (Houston); USA (remote) | Remote |  | Oct 9 |
-| **[Everpure](https://everpure.com)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/purestorage-senior-software-engineer-8247780?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, California | On-site | $175k–$317k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-12 03:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 06:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

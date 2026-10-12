@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,139 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,136 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,139, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,136, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Capable](https://jobs.ashbyhq.com/capable)** | **[Instrument Engineer, On Call](https://interviewchamp.ai/jobs/capable-instrument-engineer-on-call-45d27913-0f01-41fc-a77d-7e21c3948c8d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $90k–$340k | Oct 12 |
+| **[Latitude AI](https://job-boards.greenhouse.io/latitude)** | **[Senior Cyber Security Engineer - Identity and Device Management, & Networking Security](https://interviewchamp.ai/jobs/latitude-senior-cyber-security-engineer-identity-and-device-management-networking-security-8273152?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Pittsburgh, PA, Palo Alto, CA | On-site | $160k–$240k | Oct 12 |
+| **[Swarmaero](https://jobs.ashbyhq.com/swarmaero)** | **[Avionics Engineer](https://interviewchamp.ai/jobs/swarmaero-avionics-engineer-8332e01f-d733-4678-a7cd-b96853df78a9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | 2889 W. 5th ST, California, United States | On-site | $130k–$200k | Oct 12 |
+| **[Formlabs](https://formlabs.com)** | **[Head of Software Product Management](https://interviewchamp.ai/jobs/formlabs-head-of-software-product-management-8273112?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Somerville, MA | On-site | $160k–$280k | Oct 12 |
 | **[Nestmed](https://jobs.ashbyhq.com/nestmed)** | **[Software Engineer](https://interviewchamp.ai/jobs/nestmed-software-engineer-3295edf1-a2d5-40f4-9edd-6fa68b1bca9d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $150k–$280k | Oct 12 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Mission Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-mission-software-engineer-8025646003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 12 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Flight Software Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-flight-software-engineer-8025645003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $169.1k–$216k | Oct 12 |
@@ -178,11 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Zoro](https://www.zoro.com)** | **[Software Engineer II, Data & ML Platform](https://interviewchamp.ai/jobs/zoro-software-engineer-ii-data-ml-platform-4720769006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago, Illinois, United States | On-site | $78.9k–$131.6k | Oct 9 |
 | **[Cognite - AI for Industry](https://job-boards.eu.greenhouse.io)** | **[Senior Field Engineer (Pre-Sales/Forward Deployed)](https://interviewchamp.ai/jobs/cognite-senior-field-engineer-pre-sales-forward-deployed-5002767101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | USA (Houston); USA (remote) | Remote |  | Oct 9 |
 | **[Everpure](https://everpure.com)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/purestorage-senior-software-engineer-8247780?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, California | On-site | $175k–$317k | Oct 9 |
-| **[OpenRouter](https://openrouter.io)** | **[Site Reliability Engineer, Provider Operations](https://interviewchamp.ai/jobs/openrouter-site-reliability-engineer-provider-operations-78fc4670-5ba0-4146-b8b1-1ef4d91b96f1?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (US) | Remote |  | Oct 9 |
-| **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Software Product Manager](https://interviewchamp.ai/jobs/leolabsinc-software-product-manager-4444423009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $171k–$194k | Oct 9 |
-| **[Suno](https://jobs.ashbyhq.com/suno)** | **[Senior / Staff Software Engineer, Internal Tools](https://interviewchamp.ai/jobs/suno-senior-staff-software-engineer-internal-tools-70662a20-201c-4304-9cc1-d7092b4b85c6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boston | On-site | $229k–$363.5k | Oct 9 |
-| **[LeoLabs, Inc.](https://job-boards.greenhouse.io/leolabsinc)** | **[Senior Site Reliability Engineer (SRE)](https://interviewchamp.ai/jobs/leolabsinc-senior-site-reliability-engineer-sre-4443975009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $171k–$192k | Oct 9 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-12 00:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-12 03:45 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

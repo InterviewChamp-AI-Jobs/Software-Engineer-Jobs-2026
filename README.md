@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,244 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,242 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,244, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,242, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Parameter ai](https://jobs.ashbyhq.com/parameter)** | **[GTM Engineer](https://interviewchamp.ai/jobs/parameter-gtm-engineer-2a8315d6-4ec3-4868-ac1c-a3c72c6c9caa?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California, United States | On-site | $120k–$200k | Oct 13 |
+| **[AIM](https://jobs.ashbyhq.com/aim)** | **[Principal Robotics Learning Engineer](https://interviewchamp.ai/jobs/aim-principal-robotics-learning-engineer-20f8b35c-1a1e-4f59-b8f3-3df32b2bf4df?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle | On-site |  | Oct 13 |
+| **[AIM](https://jobs.ashbyhq.com/aim)** | **[Principal Controls Engineer](https://interviewchamp.ai/jobs/aim-principal-controls-engineer-1e62a759-619f-468a-b8fd-2cbd71b6c5a2?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle | On-site |  | Oct 13 |
+| **[ElevenLabs](https://elevenlabs.io)** | **[Product Engineer - ElevenAPI](https://interviewchamp.ai/jobs/elevenlabs-product-engineer-elevenapi-108c99e6-ba2b-44a0-b830-7d535e14a152?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 13 |
 | **[Qualdoc](https://jobs.lever.co/qualdoc)** | **[CNC Machinist & Programmer – Lathes and Mills](https://interviewchamp.ai/jobs/qualdoc-cnc-machinist-programmer-lathes-and-mills-c5eaa1a2-ded1-4b91-aff2-0b65364d203b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Ashland, VA | On-site |  | Oct 13 |
 | **[Ethos Life](https://ethoslife.com)** | **[Salesforce Developer](https://interviewchamp.ai/jobs/ethoslife-salesforce-developer-8877399002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote US | Remote |  | Oct 13 |
 | **[Decagon](https://jobs.ashbyhq.com/decagon)** | **[Staff Software Engineer, Enterprise Product](https://interviewchamp.ai/jobs/decagon-staff-software-engineer-enterprise-product-52943ef2-e3ed-44d8-ab3f-17dd28d0376d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote | $200k–$400k | Oct 13 |
@@ -178,11 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[DISCO](https://www.csdisco.com)** | **[Principal Machine Learning Scientist](https://interviewchamp.ai/jobs/disco-principal-machine-learning-scientist-8883605002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, TX | On-site |  | Oct 12 |
 | **[A-TEK Inc.](https://job-boards.greenhouse.io/atek)** | **[Oracle Cloud Infrastructure (OCI) Engineer](https://interviewchamp.ai/jobs/atek-oracle-cloud-infrastructure-oci-engineer-5449913008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Silver Spring, MD | On-site | $140k–$150k | Oct 12 |
 | **[A-TEK Inc.](https://job-boards.greenhouse.io/atek)** | **[Google Cloud Platform (GCP) Engineer](https://interviewchamp.ai/jobs/atek-google-cloud-platform-gcp-engineer-5449900008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Silver Spring, MD | On-site | $140k–$150k | Oct 12 |
-| **[Amca](https://job-boards.greenhouse.io/amca)** | **[Supply Chain Engineer, Mechanical](https://interviewchamp.ai/jobs/amca-supply-chain-engineer-mechanical-4435338009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, CA | On-site | $100k–$180k | Oct 12 |
-| **[Valkai](https://jobs.ashbyhq.com/valkai)** | **[Founding Security Engineer](https://interviewchamp.ai/jobs/valkai-founding-security-engineer-594d91a5-a789-4620-8981-5301475ffcfe?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $200k–$350k | Oct 12 |
-| **[Bumbleinc](https://jobs.ashbyhq.com/bumbleinc)** | **[Senior Android Engineer](https://interviewchamp.ai/jobs/bumbleinc-senior-android-engineer-15446470-18e2-45fc-afd8-6bb127d8ed09?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US NY New York (Remote) | Remote | $160k–$175k | Oct 12 |
-| **[Xometry](https://xometry.com)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/xometry-senior-data-engineer-5263613007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Waltham, MA | On-site |  | Oct 12 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-13 06:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-13 09:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

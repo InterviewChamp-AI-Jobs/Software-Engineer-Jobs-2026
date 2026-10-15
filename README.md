@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,748 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,743 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,748, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,743, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Neko Health](https://jobs.ashbyhq.com/neko-health)** | **[Lead Software Engineer - Medical OS](https://interviewchamp.ai/jobs/neko-health-lead-software-engineer-medical-os-ae273154-be99-4dca-ab60-ef8da74b5331?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York (Remote) | Remote |  | Oct 15 |
+| **[NeuralConcept](https://neuralconcept.com)** | **[Forward Deployed Engineer (US, West Coast)](https://interviewchamp.ai/jobs/neuralconcept-forward-deployed-engineer-us-west-coast-3846d407-f43c-46e8-b8d4-afaeee1d8b7b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $125k–$200k | Oct 15 |
 | **[Apex Technology](https://jobs.ashbyhq.com/apex-technology-inc)** | **[Senior Flight Software Engineer](https://interviewchamp.ai/jobs/apex-technology-inc-senior-flight-software-engineer-e6c3f1da-ad43-4186-98f1-d8a79bf6fc3c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles | On-site | $185k–$250k | Oct 15 |
 | **[DigiCert](https://digicert.com)** | **[Solutions Engineer](https://interviewchamp.ai/jobs/digicert-solutions-engineer-8890918002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US, Remote | Remote | $170k–$210k | Oct 15 |
 | **[Abby Care](https://jobs.ashbyhq.com/abby-care)** | **[Senior Mobile Engineer (React Native)](https://interviewchamp.ai/jobs/abby-care-senior-mobile-engineer-react-native-1f5bfaa8-47b3-495e-86ce-da92b05b2f99?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote | $170k–$240k | Oct 15 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Trace3](https://trace3.com)** | **[DevOps Engineer, TKG Platform Integrator](https://interviewchamp.ai/jobs/trace3-devops-engineer-tkg-platform-integrator-8282501?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Colorado Springs, CO | On-site | $110k–$140k | Oct 14 |
 | **[Hadrian](https://jobs.ashbyhq.com/hadrian-automation)** | **[Facility Engineer](https://interviewchamp.ai/jobs/hadrian-automation-facility-engineer-96cb5763-e4c1-4d25-af7c-602213f2439c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cherokee, AL | On-site |  | Oct 14 |
 | **[CycloKinetics](https://job-boards.greenhouse.io/cyclokinetics)** | **[Chemical Engineer L2](https://interviewchamp.ai/jobs/cyclokinetics-chemical-engineer-l2-5453201008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Salt Lake City, Utah | On-site |  | Oct 14 |
-| **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Senior Facilities Engineer I](https://interviewchamp.ai/jobs/rocketlab-senior-facilities-engineer-i-8034127003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Albuquerque, NM | On-site |  | Oct 14 |
-| **[Vast](https://vast.com)** | **[Senior Program Operations Engineer](https://interviewchamp.ai/jobs/vast-senior-program-operations-engineer-4721753006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, California, United States | On-site | $133.4k–$189.4k | Oct 14 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-15 07:11 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-15 09:57 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

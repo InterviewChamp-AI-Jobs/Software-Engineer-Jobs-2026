@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **13,969 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **13,972 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 13,969, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 13,972, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Pelico](https://jobs.ashbyhq.com/pelico)** | **[Lead DevOps Engineer](https://interviewchamp.ai/jobs/pelico-lead-devops-engineer-fc5444d3-ee85-4170-bc1e-a553b0d55dad?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US: Miami, Austin, or Boston (Remote) | Remote |  | Oct 16 |
+| **[AIM](https://jobs.ashbyhq.com/aim)** | **[Embedded Software Engineer - Verification](https://interviewchamp.ai/jobs/aim-embedded-software-engineer-verification-9d21e0a9-874e-4f48-97c4-007827d1689f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle | On-site |  | Oct 16 |
+| **[AIM](https://jobs.ashbyhq.com/aim)** | **[Senior Firmware Engineer](https://interviewchamp.ai/jobs/aim-senior-firmware-engineer-4ad01429-6b3a-48a0-a352-fb73ebdd5072?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle | On-site |  | Oct 16 |
+| **[AIM](https://jobs.ashbyhq.com/aim)** | **[Embedded Software Engineer - Safety](https://interviewchamp.ai/jobs/aim-embedded-software-engineer-safety-81c94e25-2343-4042-935a-6b55fe2558f0?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle | On-site | $170k–$190k | Oct 16 |
 | **[Coinbase](https://www.coinbase.com)** | **[Staff Software Engineer, Backend - FinHub (Transfers)](https://interviewchamp.ai/jobs/coinbase-staff-software-engineer-backend-finhub-transfers-8287662?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 16 |
 | **[Wispr Flow](https://jobs.ashbyhq.com/wispr-flow)** | **[Platform Engineer, Developer Experience](https://interviewchamp.ai/jobs/wispr-flow-platform-engineer-developer-experience-e3f2d9e6-f32d-4121-a51a-7c67720242d6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $220k–$300k | Oct 16 |
 | **[Snowflake](https://snowflake.com)** | **[Staff Software Engineer — Engineering Systems, Continuous Integration](https://interviewchamp.ai/jobs/snowflake-staff-software-engineer-engineering-systems-continuous-integration-7a085d1a-9732-4322-a997-fb14dbce5a9c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US-WA-Bellevue (Remote) | Remote | $236k–$339.2k | Oct 16 |
@@ -178,11 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Reliable Robotics](https://jobs.ashbyhq.com/reliable-robotics)** | **[Sr. Harness Manufacturing Engineer (EWIS)](https://interviewchamp.ai/jobs/reliable-robotics-sr-harness-manufacturing-engineer-ewis-1a500975-72ca-47e1-8d6d-61a31ace9626?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mountain View, CA | On-site | $167k–$230k | Oct 15 |
 | **[Agilysys](https://job-boards.greenhouse.io/agilysys)** | **[Cyber Security Engineer II](https://interviewchamp.ai/jobs/agilysys-cyber-security-engineer-ii-4454684009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Alpharetta, GA | On-site | $100k–$120k | Oct 15 |
 | **[Backblaze External Website](https://job-boards.greenhouse.io/backblaze)** | **[Sr. Observability Systems Engineer](https://interviewchamp.ai/jobs/backblaze-sr-observability-systems-engineer-5441956008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - US | Remote | $178k–$200k | Oct 15 |
-| **[Airwallex](https://airwallex.com)** | **[Senior IT Engineer, Corporate Platforms](https://interviewchamp.ai/jobs/airwallex-senior-it-engineer-corporate-platforms-085add61-a2ff-488e-8d36-c8757d4df38a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US - San Francisco (Remote) | Remote | $150k–$250k | Oct 15 |
-| **[Relling](https://jobs.ashbyhq.com/relling)** | **[Robotics Software Engineer](https://interviewchamp.ai/jobs/relling-robotics-software-engineer-c9e6b558-aaa8-4bfb-9fc6-79620c134dc6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 15 |
-| **[Relling](https://jobs.ashbyhq.com/relling)** | **[Mechatronics Engineer](https://interviewchamp.ai/jobs/relling-mechatronics-engineer-8be851c1-79af-4f10-b032-ff4bf4294055?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 15 |
-| **[Defense Unicorns](https://defenseunicorns.com)** | **[Senior Platform Engineer](https://interviewchamp.ai/jobs/defenseunicorns-senior-platform-engineer-5266923007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Colorado; Hawaii | On-site | $148.8k–$201.3k | Oct 15 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-16 07:10 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-16 09:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

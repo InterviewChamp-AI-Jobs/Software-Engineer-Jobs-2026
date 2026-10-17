@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,239 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,241 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,239, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,241, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Coretelligent](https://job-boards.greenhouse.io/coretelligent)** | **[Project Engineer – Microsoft 365 & Cloud Migrations](https://interviewchamp.ai/jobs/coretelligent-project-engineer-microsoft-365-cloud-migrations-5456270008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $85k–$120k | Oct 17 |
+| **[Coretelligent](https://job-boards.greenhouse.io/coretelligent)** | **[Project Engineer - Network Infrastructure & Office Deployments](https://interviewchamp.ai/jobs/coretelligent-project-engineer-network-infrastructure-office-deployments-5456264008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $85k–$120k | Oct 17 |
+| **[West Monroe](https://westmonroe.com)** | **[Director, TechEx, Software Engineering](https://interviewchamp.ai/jobs/westmonroe4-director-techex-software-engineering-6227557004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago; New York | On-site | $200k–$250k | Oct 17 |
 | **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Staff Software Engineer, Data - Experimentation](https://interviewchamp.ai/jobs/doordashusa-staff-software-engineer-data-experimentation-8294468?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | California, CA; San Francisco, CA; Seattle, WA; New York,NY | On-site | $193.8k–$285k | Oct 17 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Engineer (Mid-Level)](https://interviewchamp.ai/jobs/clera-gtm-engineer-mid-level-bbe68505-42b3-40b1-9822-a9a3a4ad81f8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$220k | Oct 17 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Zoox](https://zoox.com)** | **[Software Engineer, ML Training Performance](https://interviewchamp.ai/jobs/zoox-software-engineer-ml-training-performance-91ff6263-49fb-421e-860f-36e7b9bae784?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, CA | On-site | $177k–$270k | Oct 16 |
 | **[Agile Defense](https://jobs.lever.co/agile-defense)** | **[Principal Cisco Engineer III - Top Secret Clearance Required](https://interviewchamp.ai/jobs/agile-defense-principal-cisco-engineer-iii-top-secret-clearance-required-f940d840-f04e-41d1-a8b9-f785a65e4c1e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Pocatello, ID | Hybrid | $114k–$125k | Oct 16 |
 | **[H1](https://jobs.lever.co/h1)** | **[Sr. AWS Cloud Infrastructure Engineer](https://interviewchamp.ai/jobs/h1-sr-aws-cloud-infrastructure-engineer-1722cd81-8e62-4eac-b971-b698357ccb9e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York | Hybrid | $125k–$145k | Oct 16 |
-| **[Zoox](https://zoox.com)** | **[Senior/Staff Software Engineer, ML Training Performance](https://interviewchamp.ai/jobs/zoox-senior-staff-software-engineer-ml-training-performance-2ae1f38f-1b7e-4ec1-8a20-cc3816f96878?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, CA | On-site | $254k–$350k | Oct 16 |
-| **[Carrot](https://job-boards.greenhouse.io/carrotfertility)** | **[Sr. IT Systems Engineer](https://interviewchamp.ai/jobs/carrotfertility-sr-it-systems-engineer-6224109004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $150k–$175k | Oct 16 |
-| **[SewerAI](https://jobs.ashbyhq.com/sewer-ai)** | **[Forward Deployed Engineer Manager](https://interviewchamp.ai/jobs/sewer-ai-forward-deployed-engineer-manager-19d25efd-746b-45f1-a725-c0260c028938?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $160k–$190k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 12:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 15:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

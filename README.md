@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,237 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,232 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,237, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,232, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Wonderschool](https://job-boards.greenhouse.io/wonderschool)** | **[Forward Deployed Engineer – Applied AI](https://interviewchamp.ai/jobs/wonderschool-forward-deployed-engineer-applied-ai-8036581003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Gallup, New Mexico, United States; Michigan, United States; Missouri, United States; San Francisco; West Virginia, United States | On-site |  | Oct 17 |
+| **[Sandbar](https://jobs.ashbyhq.com/sandbar)** | **[Senior/Staff Security Engineer](https://interviewchamp.ai/jobs/sandbar-senior-staff-security-engineer-b28da6c0-890c-48bf-8291-2b6a6ab96b7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $190k–$270k | Oct 17 |
+| **[Beacon Software](https://jobs.ashbyhq.com/beaconsoftware)** | **[Lead Software Engineer](https://interviewchamp.ai/jobs/beaconsoftware-lead-software-engineer-85bd7418-4913-4486-8703-c1eee2f4226a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (US) | Remote |  | Oct 17 |
 | **[ALTEN Technology USA](https://job-boards.greenhouse.io/altentechnologyusa)** | **[Trim Validation Engineer](https://interviewchamp.ai/jobs/altentechnologyusa-trim-validation-engineer-5268072007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, California, United States | On-site |  | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clera-senior-data-engineer-15cde70f-2130-4a0b-94f4-ade89dcbcb91?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Platform Software Engineer](https://interviewchamp.ai/jobs/clera-senior-platform-software-engineer-bc4a8412-a9d2-4813-8011-afc7496a127e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Connections Health Solutions](https://job-boards.greenhouse.io/connectionshealthsolutions)** | **[Registered Nurse (RN) - (FT, Front End Day)](https://interviewchamp.ai/jobs/connectionshealthsolutions-registered-nurse-rn-ft-front-end-day-4456279009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Phoenix, Arizona, United States | On-site |  | Oct 16 |
 | **[Atomic Invest](https://jobs.ashbyhq.com/atomic-invest)** | **[Partner Support Engineer](https://interviewchamp.ai/jobs/atomic-invest-partner-support-engineer-18b03b39-1e28-4ccf-8a70-222a981528f5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 16 |
 | **[Fingerprint](https://fingerprint.com)** | **[Staff Application Security Engineer](https://interviewchamp.ai/jobs/fingerprint-staff-application-security-engineer-6223617004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
-| **[Tempo](https://jobs.ashbyhq.com/tempo-io)** | **[Senior AI/ML Engineer](https://interviewchamp.ai/jobs/tempo-io-senior-ai-ml-engineer-6080aa14-dca7-40c3-9b3e-95bbb9d1e857?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 16 |
-| **[Par Technology](https://jobs.ashbyhq.com/par%20technology)** | **[Enterprise Sales Engineer](https://interviewchamp.ai/jobs/par-technology-enterprise-sales-engineer-cd9ab8c2-ec05-4a9d-8925-9a9aab2c0f7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - Texas | Remote | $90k–$120k | Oct 16 |
-| **[Zoox](https://zoox.com)** | **[Software Engineer, ML Training Performance](https://interviewchamp.ai/jobs/zoox-software-engineer-ml-training-performance-91ff6263-49fb-421e-860f-36e7b9bae784?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, CA | On-site | $177k–$270k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 18:51 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 21:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

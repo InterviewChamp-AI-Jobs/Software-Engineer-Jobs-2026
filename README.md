@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,247 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,240 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,247, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,240, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Engineer (Mid-Level)](https://interviewchamp.ai/jobs/clera-gtm-engineer-mid-level-bbe68505-42b3-40b1-9822-a9a3a4ad81f8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$220k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Mid-Level Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-mid-level-robotics-engineer-autonomous-systems-344975dd-d080-48a6-b389-c6854aa86a79?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding DevOps Engineer](https://interviewchamp.ai/jobs/clera-founding-devops-engineer-6ad5edb4-f828-48dd-9830-6c982bcbd5a0?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $200k–$300k | Oct 17 |
@@ -84,7 +85,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Astro Mechanica](https://jobs.ashbyhq.com/astro-mechanica)** | **[Airframe Manufacturing Engineer](https://interviewchamp.ai/jobs/astro-mechanica-airframe-manufacturing-engineer-88aabaec-a36a-4315-bd62-3c831155d38e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$190k | Oct 16 |
 | **[Read AI](https://jobs.ashbyhq.com/read-ai)** | **[Software Engineer - Fullstack](https://interviewchamp.ai/jobs/read-ai-software-engineer-fullstack-6ea57d82-e8d4-4325-90b6-73886553f604?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Read AI - Seattle HQ (Remote) | Remote | $145k–$180k | Oct 16 |
 | **[Corelight](https://boards.greenhouse.io/corelight)** | **[Associate Escalation Engineer](https://interviewchamp.ai/jobs/corelight-associate-escalation-engineer-8287269?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $62k–$88k | Oct 16 |
-| **[Fuse Energy](https://jobs.ashbyhq.com/Fuse)** | **[Robotics Engineer (Fuse Corp)](https://interviewchamp.ai/jobs/fuse-robotics-engineer-fuse-corp-88e71da9-ed7c-4f12-853d-c5ea899e6e5c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Leandro, California | On-site | $125k–$165k | Oct 16 |
+| **[Fuse Energy](https://jobs.ashbyhq.com/Fuse)** | **[Robotics & Automation Engineer](https://interviewchamp.ai/jobs/fuse-robotics-automation-engineer-88e71da9-ed7c-4f12-853d-c5ea899e6e5c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Leandro, California | On-site | $125k–$165k | Oct 16 |
 | **[SpaceX](https://spacex.com)** | **[Propulsion Engineer (Raptor Final Assembly & Tube Shop)](https://interviewchamp.ai/jobs/spacex-propulsion-engineer-raptor-final-assembly-tube-shop-8895875002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 16 |
 | **[SpaceX](https://spacex.com)** | **[Manufacturing Engineer (Raptor Final Assembly & Tube Shop)](https://interviewchamp.ai/jobs/spacex-manufacturing-engineer-raptor-final-assembly-tube-shop-8896018002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 16 |
 | **[Twenty](https://jobs.ashbyhq.com/twenty)** | **[Staff Product Manager, Data & Platform Infrastructure](https://interviewchamp.ai/jobs/twenty-staff-product-manager-data-platform-infrastructure-58823b5d-0358-4eed-be15-43baa56267d2?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, NY | On-site | $184k–$389k | Oct 16 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Carrot](https://job-boards.greenhouse.io/carrotfertility)** | **[Sr. IT Systems Engineer](https://interviewchamp.ai/jobs/carrotfertility-sr-it-systems-engineer-6224109004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $150k–$175k | Oct 16 |
 | **[SewerAI](https://jobs.ashbyhq.com/sewer-ai)** | **[Forward Deployed Engineer Manager](https://interviewchamp.ai/jobs/sewer-ai-forward-deployed-engineer-manager-19d25efd-746b-45f1-a725-c0260c028938?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $160k–$190k | Oct 16 |
 | **[Data Systems Analysts, Inc.](https://job-boards.greenhouse.io/datasystemsanalystsinc)** | **[Senior Software Quality Assurance Engineer and Tester](https://interviewchamp.ai/jobs/datasystemsanalystsinc-senior-software-quality-assurance-engineer-and-tester-5455446008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Gordon, GA | On-site | $115k–$145k | Oct 16 |
-| **[Hut 8](https://job-boards.greenhouse.io/hut8)** | **[Senior Site Reliability Engineer - Highrise AI](https://interviewchamp.ai/jobs/hut8-senior-site-reliability-engineer-highrise-ai-5455079008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 07:04 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

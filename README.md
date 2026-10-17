@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,240 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,241 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,240, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,241, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[DoorDash USA](https://job-boards.greenhouse.io/doordashusa)** | **[Staff Software Engineer, Data - Experimentation](https://interviewchamp.ai/jobs/doordashusa-staff-software-engineer-data-experimentation-8294468?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | California, CA; San Francisco, CA; Seattle, WA; New York,NY | On-site | $193.8k–$285k | Oct 17 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 1 - Cloud Infrastructure](https://interviewchamp.ai/jobs/abnormalsecurity-software-engineer-1-cloud-infrastructure-8015179003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $122.4k–$176k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Engineer (Mid-Level)](https://interviewchamp.ai/jobs/clera-gtm-engineer-mid-level-bbe68505-42b3-40b1-9822-a9a3a4ad81f8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$220k | Oct 17 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Mid-Level Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-mid-level-robotics-engineer-autonomous-systems-344975dd-d080-48a6-b389-c6854aa86a79?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Zoox](https://zoox.com)** | **[Senior/Staff Software Engineer, ML Training Performance](https://interviewchamp.ai/jobs/zoox-senior-staff-software-engineer-ml-training-performance-2ae1f38f-1b7e-4ec1-8a20-cc3816f96878?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, CA | On-site | $254k–$350k | Oct 16 |
 | **[Carrot](https://job-boards.greenhouse.io/carrotfertility)** | **[Sr. IT Systems Engineer](https://interviewchamp.ai/jobs/carrotfertility-sr-it-systems-engineer-6224109004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $150k–$175k | Oct 16 |
 | **[SewerAI](https://jobs.ashbyhq.com/sewer-ai)** | **[Forward Deployed Engineer Manager](https://interviewchamp.ai/jobs/sewer-ai-forward-deployed-engineer-manager-19d25efd-746b-45f1-a725-c0260c028938?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $160k–$190k | Oct 16 |
-| **[Data Systems Analysts, Inc.](https://job-boards.greenhouse.io/datasystemsanalystsinc)** | **[Senior Software Quality Assurance Engineer and Tester](https://interviewchamp.ai/jobs/datasystemsanalystsinc-senior-software-quality-assurance-engineer-and-tester-5455446008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fort Gordon, GA | On-site | $115k–$145k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-17 07:04 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-17 09:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

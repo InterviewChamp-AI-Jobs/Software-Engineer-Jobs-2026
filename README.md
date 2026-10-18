@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,225 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,224 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,225, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,224, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[SpaceX](https://spacex.com)** | **[Application Software Engineer, Flight Software](https://interviewchamp.ai/jobs/spacex-application-software-engineer-flight-software-8899128002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 18 |
 | **[Relling](https://jobs.ashbyhq.com/relling)** | **[Electrical Engineer](https://interviewchamp.ai/jobs/relling-electrical-engineer-89ad3d5e-74f4-4c00-87dc-b59038f67a5f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Director, IT Infrastructure Services (R6338)](https://interviewchamp.ai/jobs/shieldai-director-it-infrastructure-services-r6338-581cc2e0-9ad3-4a5a-98e4-d21500210ee9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $190k–$340k | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Software (R6331)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-software-r6331-dd7070fb-bc02-4ab0-930f-c3c2e933353e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $140k–$210k | Oct 18 |
@@ -99,7 +100,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Corelight](https://boards.greenhouse.io/corelight)** | **[Associate Escalation Engineer](https://interviewchamp.ai/jobs/corelight-associate-escalation-engineer-8287269?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $62k–$88k | Oct 16 |
 | **[Fuse Energy](https://jobs.ashbyhq.com/Fuse)** | **[Robotics & Automation Engineer](https://interviewchamp.ai/jobs/fuse-robotics-automation-engineer-88e71da9-ed7c-4f12-853d-c5ea899e6e5c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Leandro, California | On-site | $125k–$165k | Oct 16 |
 | **[SpaceX](https://spacex.com)** | **[Propulsion Engineer (Raptor Final Assembly & Tube Shop)](https://interviewchamp.ai/jobs/spacex-propulsion-engineer-raptor-final-assembly-tube-shop-8895875002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 16 |
-| **[SpaceX](https://spacex.com)** | **[Manufacturing Engineer (Raptor Final Assembly & Tube Shop)](https://interviewchamp.ai/jobs/spacex-manufacturing-engineer-raptor-final-assembly-tube-shop-8896018002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 16 |
 | **[Twenty](https://jobs.ashbyhq.com/twenty)** | **[Staff Product Manager, Data & Platform Infrastructure](https://interviewchamp.ai/jobs/twenty-staff-product-manager-data-platform-infrastructure-58823b5d-0358-4eed-be15-43baa56267d2?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, NY | On-site | $184k–$389k | Oct 16 |
 | **[Greenpoint Technologies](https://job-boards.greenhouse.io/greenpointtechnologies)** | **[Liaison Engineer - Electrical](https://interviewchamp.ai/jobs/greenpointtechnologies-liaison-engineer-electrical-5452661008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Moses Lake, Washington, United States | On-site | $90k–$124k | Oct 16 |
 | **[Kairos Power](https://kairospower.com)** | **[Senior Quality Engineer](https://interviewchamp.ai/jobs/kairospower-senior-quality-engineer-6179438004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Albuquerque, NM | On-site |  | Oct 16 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 07:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 09:50 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

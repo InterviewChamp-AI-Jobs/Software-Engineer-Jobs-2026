@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,229 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,230 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,229, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,230, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,8 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Industrial (R6313)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-industrial-r6313-70b0a80c-fcd9-4a6f-8e80-8cfcabe52aaf?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, Washington | On-site | $170k–$260k | Oct 18 |
-| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Senior Staff Engineer, Mechanical & Actuated Systems (R6307)](https://interviewchamp.ai/jobs/shieldai-senior-staff-engineer-mechanical-actuated-systems-r6307-b89ca1d5-9323-4425-a4de-d3319b04011e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, Washington | On-site | $200k–$310k | Oct 18 |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Director, IT Infrastructure Services (R6338)](https://interviewchamp.ai/jobs/shieldai-director-it-infrastructure-services-r6338-581cc2e0-9ad3-4a5a-98e4-d21500210ee9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $190k–$340k | Oct 18 |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Software (R6331)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-software-r6331-dd7070fb-bc02-4ab0-930f-c3c2e933353e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $140k–$210k | Oct 18 |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Data Engineer, Finance (R6329)](https://interviewchamp.ai/jobs/shieldai-data-engineer-finance-r6329-a3eae89e-5a2b-4e6a-8e9c-e315923b0c71?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Diego, California | On-site | $97k–$140k | Oct 18 |
 | **[Wonderschool](https://job-boards.greenhouse.io/wonderschool)** | **[Senior Software Engineer, Payments](https://interviewchamp.ai/jobs/wonderschool-senior-software-engineer-payments-7802186003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 17 |
 | **[Wonderschool](https://job-boards.greenhouse.io/wonderschool)** | **[Forward Deployed Engineer – Applied AI](https://interviewchamp.ai/jobs/wonderschool-forward-deployed-engineer-applied-ai-8036581003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Gallup, New Mexico, United States; Michigan, United States; Missouri, United States; San Francisco; West Virginia, United States | On-site |  | Oct 17 |
 | **[Sandbar](https://jobs.ashbyhq.com/sandbar)** | **[Senior/Staff Security Engineer](https://interviewchamp.ai/jobs/sandbar-senior-staff-security-engineer-b28da6c0-890c-48bf-8291-2b6a6ab96b7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $190k–$270k | Oct 17 |
@@ -51,7 +52,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Heartflow](https://job-boards.greenhouse.io/heartflowinc)** | **[Principal Clinical Engineer – AI Performance & Investigations](https://interviewchamp.ai/jobs/heartflowinc-principal-clinical-engineer-ai-performance-investigations-6227786004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, California | On-site | $188k–$240k | Oct 17 |
 | **[Hadrian](https://jobs.ashbyhq.com/hadrian-automation)** | **[Tooling Engineer, Welding](https://interviewchamp.ai/jobs/hadrian-automation-tooling-engineer-welding-16b2e6f9-8d3d-4673-8601-ce37a0bb553d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA | On-site | $115k–$170k | Oct 17 |
 | **[Lyft](https://lyft.com)** | **[Software Engineer](https://interviewchamp.ai/jobs/lyft-software-engineer-8896679002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $138k–$192k | Oct 17 |
-| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Engineer I, Mechanical (R6302)](https://interviewchamp.ai/jobs/shieldai-engineer-i-mechanical-r6302-a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, Washington | On-site | $81k–$140k | Oct 17 |
 | **[Lyft](https://lyft.com)** | **[Business Systems Engineer](https://interviewchamp.ai/jobs/lyft-business-systems-engineer-8896654002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, WA | On-site | $138k–$207k | Oct 17 |
 | **[Headway](https://jobs.ashbyhq.com/headway)** | **[Senior Engineering Manager (Infrastructure)](https://interviewchamp.ai/jobs/headway-senior-engineering-manager-infrastructure-91137d3f-1546-4f26-949b-4c079990f5cf?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $265.2k–$331.5k | Oct 17 |
 | **[Teamsnap](https://jobs.lever.co/teamsnap)** | **[Staff Software Engineer (Android)](https://interviewchamp.ai/jobs/teamsnap-staff-software-engineer-android-4f98ad5c-024f-4c4c-96f9-df171909aa1f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 17 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 01:05 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

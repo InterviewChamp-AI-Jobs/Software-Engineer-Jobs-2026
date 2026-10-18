@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,221 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,209 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,221, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,209, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clear Street](https://clearstreet.io)** | **[Senior / Staff Software Engineer, Mobile](https://interviewchamp.ai/jobs/clearstreet-senior-staff-software-engineer-mobile-8235079?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $150k–$250k | Oct 18 |
+| **[Clear Street](https://clearstreet.io)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clearstreet-senior-data-engineer-8296139?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 18 |
+| **[Anthropic](https://anthropic.com)** | **[Principal Engineer Capacity/Compute](https://interviewchamp.ai/jobs/anthropic-principal-engineer-capacity-compute-5456039008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $320k–$485k | Oct 18 |
 | **[Grafana Labs](https://grafana.com)** | **[Staff FrontEnd Engineer - Platform - App Core Usage \| US \| Remote](https://interviewchamp.ai/jobs/grafanalabs-staff-frontend-engineer-platform-app-core-usage-us-remote-6227872004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote | $175k–$210k | Oct 18 |
 | **[SpaceX](https://spacex.com)** | **[Application Software Engineer, Flight Software](https://interviewchamp.ai/jobs/spacex-application-software-engineer-flight-software-8899128002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hawthorne, CA | On-site |  | Oct 18 |
 | **[Relling](https://jobs.ashbyhq.com/relling)** | **[Electrical Engineer](https://interviewchamp.ai/jobs/relling-electrical-engineer-89ad3d5e-74f4-4c00-87dc-b59038f67a5f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 18 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[BETA Technologies](https://job-boards.greenhouse.io/betatechnologiesinc)** | **[Product Quality Engineer Area Lead - Ground Support Equipment](https://interviewchamp.ai/jobs/betatechnologiesinc-product-quality-engineer-area-lead-ground-support-equipment-4261781009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | South Burlington, Vermont, United States | On-site | $100k–$110k | Oct 16 |
 | **[Adapture Renewables](https://job-boards.greenhouse.io/adapturerenewables)** | **[Sr. BESS Engineer](https://interviewchamp.ai/jobs/adapturerenewables-sr-bess-engineer-5454393008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Oakland, CA | On-site |  | Oct 16 |
 | **[Liveview Technologies](https://jobs.ashbyhq.com/liveview-technologies)** | **[Senior Cloud Engineer](https://interviewchamp.ai/jobs/liveview-technologies-senior-cloud-engineer-bb5f1ff0-c443-4cdb-88a6-ef61d8558dd3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle (Remote) | Remote |  | Oct 16 |
-| **[Aescape](https://jobs.ashbyhq.com/aescape)** | **[Senior Backend Engineer (Booking Integrations, Contract)](https://interviewchamp.ai/jobs/aescape-senior-backend-engineer-booking-integrations-contract-28f86607-2017-4a05-bc86-b196a0f34086?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fully Remote | Remote |  | Oct 16 |
-| **[Anduril Industries](https://anduril.com)** | **[Sustainment Engineer, Fury](https://interviewchamp.ai/jobs/andurilindustries-sustainment-engineer-fury-5266500007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Costa Mesa, California, United States | On-site | $132k–$175k | Oct 16 |
-| **[Accenture Federal Services](https://accenturefederal.com)** | **[Site Reliability Engineer (DevOps)](https://interviewchamp.ai/jobs/accenturefederalservices-site-reliability-engineer-devops-4719515006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Reston, VA | On-site | $111.8k–$221.8k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 12:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 15:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

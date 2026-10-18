@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,230 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,225 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,230, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,225, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,9 +32,11 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Relling](https://jobs.ashbyhq.com/relling)** | **[Electrical Engineer](https://interviewchamp.ai/jobs/relling-electrical-engineer-89ad3d5e-74f4-4c00-87dc-b59038f67a5f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Director, IT Infrastructure Services (R6338)](https://interviewchamp.ai/jobs/shieldai-director-it-infrastructure-services-r6338-581cc2e0-9ad3-4a5a-98e4-d21500210ee9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $190k–$340k | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Staff Engineer, Software (R6331)](https://interviewchamp.ai/jobs/shieldai-staff-engineer-software-r6331-dd7070fb-bc02-4ab0-930f-c3c2e933353e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $140k–$210k | Oct 18 |
 | **[Shield AI](https://jobs.lever.co/shieldai)** | **[Data Engineer, Finance (R6329)](https://interviewchamp.ai/jobs/shieldai-data-engineer-finance-r6329-a3eae89e-5a2b-4e6a-8e9c-e315923b0c71?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Diego, California | On-site | $97k–$140k | Oct 18 |
+| **[Atom Computing](https://jobs.lever.co/atomcomputing)** | **[Principal Subsystem Build & Test Engineer](https://interviewchamp.ai/jobs/atomcomputing-principal-subsystem-build-test-engineer-e7127c58-b2e0-4606-ad4f-be1d8a163edc?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boulder, CO | On-site | $185k–$210k | Oct 17 |
 | **[Wonderschool](https://job-boards.greenhouse.io/wonderschool)** | **[Senior Software Engineer, Payments](https://interviewchamp.ai/jobs/wonderschool-senior-software-engineer-payments-7802186003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 17 |
 | **[Wonderschool](https://job-boards.greenhouse.io/wonderschool)** | **[Forward Deployed Engineer – Applied AI](https://interviewchamp.ai/jobs/wonderschool-forward-deployed-engineer-applied-ai-8036581003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Gallup, New Mexico, United States; Michigan, United States; Missouri, United States; San Francisco; West Virginia, United States | On-site |  | Oct 17 |
 | **[Sandbar](https://jobs.ashbyhq.com/sandbar)** | **[Senior/Staff Security Engineer](https://interviewchamp.ai/jobs/sandbar-senior-staff-security-engineer-b28da6c0-890c-48bf-8291-2b6a6ab96b7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $190k–$270k | Oct 17 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Anduril Industries](https://anduril.com)** | **[Sustainment Engineer, Fury](https://interviewchamp.ai/jobs/andurilindustries-sustainment-engineer-fury-5266500007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Costa Mesa, California, United States | On-site | $132k–$175k | Oct 16 |
 | **[Accenture Federal Services](https://accenturefederal.com)** | **[Site Reliability Engineer (DevOps)](https://interviewchamp.ai/jobs/accenturefederalservices-site-reliability-engineer-devops-4719515006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Reston, VA | On-site | $111.8k–$221.8k | Oct 16 |
 | **[ZoomInfo Technologies LLC](https://zoominfo.com)** | **[Software Engineer III](https://interviewchamp.ai/jobs/zoominfo-software-engineer-iii-8879304002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Waltham, Massachusetts, United States | On-site | $112k–$176k | Oct 16 |
-| **[Connections Health Solutions](https://job-boards.greenhouse.io/connectionshealthsolutions)** | **[Registered Nurse (RN) - (FT, Front End Day)](https://interviewchamp.ai/jobs/connectionshealthsolutions-registered-nurse-rn-ft-front-end-day-4456279009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Phoenix, Arizona, United States | On-site |  | Oct 16 |
-| **[Atomic Invest](https://jobs.ashbyhq.com/atomic-invest)** | **[Partner Support Engineer](https://interviewchamp.ai/jobs/atomic-invest-partner-support-engineer-18b03b39-1e28-4ccf-8a70-222a981528f5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote |  | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 03:54 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 07:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

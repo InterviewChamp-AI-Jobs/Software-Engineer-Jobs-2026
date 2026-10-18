@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,209 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,188 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,209, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,188, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Product Designer/Engineer](https://interviewchamp.ai/jobs/clera-founding-product-designer-engineer-7b4184ce-700e-4ef7-bb76-ca93f9e84ea7?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York (Remote) | Remote | $160k–$220k | Oct 18 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Engineer](https://interviewchamp.ai/jobs/clera-founding-engineer-8219d36e-1b96-4dda-9dc4-ef2ab3ba1d4e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$200k | Oct 18 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Founding Forward Deployed Engineer](https://interviewchamp.ai/jobs/clera-founding-forward-deployed-engineer-362677ee-a902-47f8-9a83-6b65f857aedc?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$250k | Oct 18 |
 | **[Clear Street](https://clearstreet.io)** | **[Senior / Staff Software Engineer, Mobile](https://interviewchamp.ai/jobs/clearstreet-senior-staff-software-engineer-mobile-8235079?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $150k–$250k | Oct 18 |
 | **[Clear Street](https://clearstreet.io)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clearstreet-senior-data-engineer-8296139?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 18 |
 | **[Anthropic](https://anthropic.com)** | **[Principal Engineer Capacity/Compute](https://interviewchamp.ai/jobs/anthropic-principal-engineer-capacity-compute-5456039008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $320k–$485k | Oct 18 |
@@ -47,9 +50,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Sandbar](https://jobs.ashbyhq.com/sandbar)** | **[Senior/Staff Security Engineer](https://interviewchamp.ai/jobs/sandbar-senior-staff-security-engineer-b28da6c0-890c-48bf-8291-2b6a6ab96b7f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $190k–$270k | Oct 17 |
 | **[Beacon Software](https://jobs.ashbyhq.com/beaconsoftware)** | **[Lead Software Engineer](https://interviewchamp.ai/jobs/beaconsoftware-lead-software-engineer-85bd7418-4913-4486-8703-c1eee2f4226a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (US) | Remote |  | Oct 17 |
 | **[ALTEN Technology USA](https://job-boards.greenhouse.io/altentechnologyusa)** | **[Trim Validation Engineer](https://interviewchamp.ai/jobs/altentechnologyusa-trim-validation-engineer-5268072007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, California, United States | On-site |  | Oct 17 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Data Engineer](https://interviewchamp.ai/jobs/clera-senior-data-engineer-15cde70f-2130-4a0b-94f4-ade89dcbcb91?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Platform Software Engineer](https://interviewchamp.ai/jobs/clera-senior-platform-software-engineer-bc4a8412-a9d2-4813-8011-afc7496a127e?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | remote | Remote |  | Oct 17 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Senior Legal Engineer](https://interviewchamp.ai/jobs/clera-senior-legal-engineer-2137ff0e-e6e4-4266-aef2-4e9eb321323a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$225k | Oct 17 |
 | **[Elorian](https://jobs.ashbyhq.com/elorian-ai-inc)** | **[Software Engineer - Core Platform](https://interviewchamp.ai/jobs/elorian-ai-inc-software-engineer-core-platform-902f441b-6ed6-43ac-bca6-453d959ac7ac?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto (Remote) | Remote | $300k–$450k | Oct 17 |
 | **[Coretelligent](https://job-boards.greenhouse.io/coretelligent)** | **[Project Engineer – Microsoft 365 & Cloud Migrations](https://interviewchamp.ai/jobs/coretelligent-project-engineer-microsoft-365-cloud-migrations-5456270008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $85k–$120k | Oct 17 |
 | **[Coretelligent](https://job-boards.greenhouse.io/coretelligent)** | **[Project Engineer - Network Infrastructure & Office Deployments](https://interviewchamp.ai/jobs/coretelligent-project-engineer-network-infrastructure-office-deployments-5456264008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $85k–$120k | Oct 17 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-18 15:48 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-18 18:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

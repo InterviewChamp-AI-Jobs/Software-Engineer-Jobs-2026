@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **14,155 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **14,163 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 14,155, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 14,163, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,10 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Prime Intellect](https://jobs.ashbyhq.com/primeintellect)** | **[Research Engineer - RL Infrastructure](https://interviewchamp.ai/jobs/primeintellect-research-engineer-rl-infrastructure-07f6f7bc-5f5b-4565-8897-9876763198dd?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 19 |
+| **[Zeely](https://jobs.ashbyhq.com/zeely)** | **[Senior DevOps Engineer (Infrastructure)](https://interviewchamp.ai/jobs/zeely-senior-devops-engineer-infrastructure-4001f2b6-d3f0-440d-b2a2-1dbd6c2091c8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Oct 19 |
+| **[Maven Robotics](https://boards.greenhouse.io/mavenrobotics)** | **[Evaluation Engineer](https://interviewchamp.ai/jobs/mavenrobotics-evaluation-engineer-5456483008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, CA | On-site |  | Oct 19 |
+| **[Tau](https://www.taumotors.com)** | **[Power Electronics and Controls Engineer](https://interviewchamp.ai/jobs/tau-power-electronics-and-controls-engineer-4722098006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Redwood City, CA | On-site |  | Oct 19 |
 | **[Nexxa](https://jobs.ashbyhq.com/nexxa)** | **[Senior Software Development Engineer in Test (SDET), QA - AI Systems](https://interviewchamp.ai/jobs/nexxa-senior-software-development-engineer-in-test-sdet-qa-ai-systems-21e899e9-9a45-4d34-838b-3b69256a27d7?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | SF Bay area (Remote) | Remote |  | Oct 19 |
 | **[Etched](https://etched.com)** | **[Mechanical Engineer](https://interviewchamp.ai/jobs/etched-mechanical-engineer-79b51baf-67eb-4857-a1ae-abcb649feab8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose | On-site | $150k–$350k | Oct 19 |
 | **[Apex Technology](https://jobs.ashbyhq.com/apex-technology-inc)** | **[Software Engineer, Operating Systems](https://interviewchamp.ai/jobs/apex-technology-inc-software-engineer-operating-systems-4336aa85-3b5b-427c-a46e-611a9010bac3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles | On-site | $130k–$185k | Oct 19 |
@@ -178,11 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Valar Atomics](https://job-boards.greenhouse.io/valaratomics)** | **[Lead Electrical Engineer](https://interviewchamp.ai/jobs/valaratomics-lead-electrical-engineer-4456598009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Torrance, California, United States | On-site | $196k–$240k | Oct 16 |
 | **[Reliable Robotics](https://jobs.ashbyhq.com/reliable-robotics)** | **[Sr. System Integration Engineer](https://interviewchamp.ai/jobs/reliable-robotics-sr-system-integration-engineer-e3274f01-813a-42d2-a137-9ca7243b7eb3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mountain View, CA | On-site | $162k–$220k | Oct 16 |
 | **[1-800 Contacts](https://job-boards.greenhouse.io/1800contacts)** | **[Full Stack Engineer (Python)](https://interviewchamp.ai/jobs/1800contacts-full-stack-engineer-python-8289484?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Draper, UT (Hybrid) | Hybrid |  | Oct 16 |
-| **[LIGHTFEATHER IO LLC](https://job-boards.greenhouse.io/lightfeatheriollc)** | **[ServiceNow Platform Engineer](https://interviewchamp.ai/jobs/lightfeatheriollc-servicenow-platform-engineer-5455895008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $180k–$200k | Oct 16 |
-| **[Astro Mechanica](https://jobs.ashbyhq.com/astro-mechanica)** | **[Mechanical Engineer, Fluid Systems](https://interviewchamp.ai/jobs/astro-mechanica-mechanical-engineer-fluid-systems-b5812615-f479-4727-ae96-3ea75532419a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $135k–$170k | Oct 16 |
-| **[Black Duck Software, Inc.](https://job-boards.greenhouse.io/blackduck)** | **[Lead Sales Engineer (Central)](https://interviewchamp.ai/jobs/blackduck-lead-sales-engineer-central-5397092008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, Texas | On-site | $141.2k–$211.8k | Oct 16 |
-| **[LIGHTFEATHER IO LLC](https://job-boards.greenhouse.io/lightfeatheriollc)** | **[Senior ServiceNow Developer - Public Trust Clearance](https://interviewchamp.ai/jobs/lightfeatheriollc-senior-servicenow-developer-public-trust-clearance-5455854008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $90k–$115k | Oct 16 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-19 07:18 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-19 10:00 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

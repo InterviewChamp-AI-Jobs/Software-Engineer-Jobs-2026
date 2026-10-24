@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,587 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,585 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,587, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,585, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -101,7 +101,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Smartling](https://job-boards.greenhouse.io/smartling)** | **[Web Integrations Support Engineer](https://interviewchamp.ai/jobs/smartling-web-integrations-support-engineer-8319576?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $90k–$110k | Oct 23 |
 | **[Archer](https://job-boards.greenhouse.io/archer56)** | **[Sr. Product Quality Engineer - Powertrain](https://interviewchamp.ai/jobs/archer56-sr-product-quality-engineer-powertrain-7860279003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, California, United States | On-site | $120.4k–$150.5k | Oct 23 |
 | **[Form Energy](https://jobs.ashbyhq.com/formenergy)** | **[Staff AI Platform Engineer](https://interviewchamp.ai/jobs/formenergy-staff-ai-platform-engineer-c077eab3-33be-4877-8e07-8d42ee4feae6?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Somerville, MA (Remote) | Remote | $128.7k–$185k | Oct 23 |
-| **[Sila](https://job-boards.greenhouse.io/silananotechnologies)** | **[Staff Engineer, Network](https://interviewchamp.ai/jobs/silananotechnologies-staff-engineer-network-8292649?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Alameda, CA | On-site | From $146k | Oct 23 |
+| **[Sila](https://job-boards.greenhouse.io/silananotechnologies)** | **[Staff Engineer, Network](https://interviewchamp.ai/jobs/silananotechnologies-staff-engineer-network-8292649?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Moses Lake, WA | On-site | From $146k | Oct 23 |
 | **[Quadric](https://jobs.ashbyhq.com/quadric)** | **[AI Kernel Engineer Intern](https://interviewchamp.ai/jobs/quadric-ai-kernel-engineer-intern-cb79384e-5dd8-49a0-a075-549e7285316c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Burlingame, CA (HQ) | On-site |  | Oct 23 |
 | **[Verkada](https://verkada.com)** | **[Firmware Release & Test Automation Engineer](https://interviewchamp.ai/jobs/verkada-firmware-release-test-automation-engineer-5273877007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA United States | On-site | $125k–$260k | Oct 23 |
 | **[Quadric](https://jobs.ashbyhq.com/quadric)** | **[Systems Software Engineer](https://interviewchamp.ai/jobs/quadric-systems-software-engineer-4f3411fe-669e-4d42-a6e1-ecac49dca133?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Burlingame, CA (HQ) (Remote) | Remote | $150k–$220k | Oct 23 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-24 13:02 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-24 15:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

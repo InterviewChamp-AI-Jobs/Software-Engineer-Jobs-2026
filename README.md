@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,574 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,571 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,574, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,571, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[HomeLight](https://job-boards.greenhouse.io/homelight)** | **[Account Executive - Realtor Software](https://interviewchamp.ai/jobs/homelight-account-executive-realtor-software-8323207?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Scottsdale, AZ | On-site |  | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-76fcabd1-4506-4e76-b4e7-5b3d3dd82830?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Indianapolis, Indiana, United States | On-site |  | Oct 25 |
 | **[Atom Computing](https://jobs.lever.co/atomcomputing)** | **[Laser Engineer - Manufacturing](https://interviewchamp.ai/jobs/atomcomputing-laser-engineer-manufacturing-9d725c06-182a-45fa-b42f-9a38c8d3e3b5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boulder, CO | On-site | $120k–$150k | Oct 25 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior TPM, Mathematical Software & Algorithms](https://interviewchamp.ai/jobs/andurilindustries-senior-tpm-mathematical-software-algorithms-5274651007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Huntsville, Alabama, United States | On-site | $144k–$192k | Oct 25 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Vermont Information Processing](https://job-boards.greenhouse.io/vipvermontinformationprocessing2)** | **[IBMi Engineer III](https://interviewchamp.ai/jobs/vipvermontinformationprocessing2-ibmi-engineer-iii-5274302007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Colchester, Vermont, United States | On-site | From $125k | Oct 23 |
 | **[Accenture Federal Services](https://accenturefederal.com)** | **[SAP ABAP Developer - BTP Integration Suite](https://interviewchamp.ai/jobs/accenturefederalservices-sap-abap-developer-btp-integration-suite-4724167006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $148.8k–$306.5k | Oct 23 |
 | **[SpaceX](https://spacex.com)** | **[Launch Pad Engineer, Fluid Systems](https://interviewchamp.ai/jobs/spacex-launch-pad-engineer-fluid-systems-8912649002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cape Canaveral, FL | On-site |  | Oct 23 |
-| **[Relativity Space](https://relativityspace.com)** | **[Manufacturing Engineer II, Machining](https://interviewchamp.ai/jobs/relativity-manufacturing-engineer-ii-machining-8910141002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, California, United States | On-site | $104k–$156k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 09:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 13:03 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

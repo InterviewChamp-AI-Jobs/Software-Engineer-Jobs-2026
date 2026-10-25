@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,579 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,574 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,579, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,574, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -51,7 +51,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Reddit](https://reddit.com)** | **[Software Engineer, Ad Signals](https://interviewchamp.ai/jobs/reddit-software-engineer-ad-signals-8319655?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - United States | Remote | $190.8k–$267.1k | Oct 24 |
 | **[Supabase](https://jobs.ashbyhq.com/supabase)** | **[Software Engineer - Storage](https://interviewchamp.ai/jobs/supabase-software-engineer-storage-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, Global | Remote |  | Oct 24 |
 | **[Supabase](https://jobs.ashbyhq.com/supabase)** | **[Data API Engineer](https://interviewchamp.ai/jobs/supabase-data-api-engineer-950e8ffc-79a5-4626-b1dd-115fcbcddad0?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, Global | Remote |  | Oct 24 |
-| **[Placer.ai](https://placer.ai)** | **[Platform Engineer - AI Tools](https://interviewchamp.ai/jobs/placerlabs-platform-engineer-ai-tools-8043836003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, Texas | On-site |  | Oct 24 |
 | **[Build Technologies](https://jobs.ashbyhq.com/build)** | **[Computational Design Engineer](https://interviewchamp.ai/jobs/build-computational-design-engineer-b1fc87e0-1084-4e06-b491-30c6f25b01eb?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site | $160k–$200k | Oct 24 |
 | **[Perplexity](https://jobs.ashbyhq.com/Perplexity)** | **[Member of Technical Staff (Software Engineer, Training Infrastructure)](https://interviewchamp.ai/jobs/perplexity-member-of-technical-staff-software-engineer-training-infrastructure-2a5aa5f6-596b-45c3-84db-ac0b96363f93?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $220k–$405k | Oct 24 |
 | **[Perplexity](https://jobs.ashbyhq.com/Perplexity)** | **[Member of Technical Staff (AI Software Engineer, Agents)](https://interviewchamp.ai/jobs/perplexity-member-of-technical-staff-ai-software-engineer-agents-cc22684f-b419-4ab8-8aa0-b4a393d3beb9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $220k–$405k | Oct 24 |
@@ -182,7 +181,8 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Vermont Information Processing](https://job-boards.greenhouse.io/vipvermontinformationprocessing2)** | **[IBMi Engineer III](https://interviewchamp.ai/jobs/vipvermontinformationprocessing2-ibmi-engineer-iii-5274302007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Colchester, Vermont, United States | On-site | From $125k | Oct 23 |
 | **[Accenture Federal Services](https://accenturefederal.com)** | **[SAP ABAP Developer - BTP Integration Suite](https://interviewchamp.ai/jobs/accenturefederalservices-sap-abap-developer-btp-integration-suite-4724167006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $148.8k–$306.5k | Oct 23 |
 | **[SpaceX](https://spacex.com)** | **[Launch Pad Engineer, Fluid Systems](https://interviewchamp.ai/jobs/spacex-launch-pad-engineer-fluid-systems-8912649002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cape Canaveral, FL | On-site |  | Oct 23 |
+| **[Relativity Space](https://relativityspace.com)** | **[Manufacturing Engineer II, Machining](https://interviewchamp.ai/jobs/relativity-manufacturing-engineer-ii-machining-8910141002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, California, United States | On-site | $104k–$156k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 09:53 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

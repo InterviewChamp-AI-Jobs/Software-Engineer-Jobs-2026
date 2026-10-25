@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,525 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,507 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,525, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,507, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Sisense](https://jobs.ashbyhq.com/sisense)** | **[Solutions Engineer](https://interviewchamp.ai/jobs/sisense-solutions-engineer-7c68ab81-771c-479b-aace-1426d208309f?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote | $75k–$104k | Oct 25 |
+| **[Lucid Motors](https://lucidmotors.com)** | **[Homologation Engineer II - Product Compliance Engineer](https://interviewchamp.ai/jobs/lucidmotors-homologation-engineer-ii-product-compliance-engineer-5254760007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Phoenix, AZ | On-site |  | Oct 25 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior Business Process Engineer, Business Process & Procedures](https://interviewchamp.ai/jobs/andurilindustries-senior-business-process-engineer-business-process-procedures-5009896007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Costa Mesa, California, United States | On-site | $147k–$196k | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[AI Infrastructure / Product Engineer](https://interviewchamp.ai/jobs/clera-ai-infrastructure-product-engineer-5aa2f85d-297f-4c8f-b89d-f5f99391b930?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $180k–$260k | Oct 25 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[Legal Engineer](https://interviewchamp.ai/jobs/clera-legal-engineer-66769d6c-9504-4112-853e-a62a7936a58a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $150k–$225k | Oct 25 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Saronic](https://jobs.ashbyhq.com/saronic)** | **[Electrical Build Engineer](https://interviewchamp.ai/jobs/saronic-electrical-build-engineer-1bda085b-f8bb-490f-9804-66c4f6a55b29?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, TX | On-site |  | Oct 23 |
 | **[Lambda](https://jobs.ashbyhq.com/Lambda)** | **[Data Center Operations System Engineer - Plano, TX](https://interviewchamp.ai/jobs/lambda-data-center-operations-system-engineer-plano-tx-ea88daf6-6a0b-4189-a393-a6cc71eb647d?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, USA | Remote | $109k–$145k | Oct 23 |
 | **[Zone 5 Technologies](https://job-boards.greenhouse.io/zone5technologies)** | **[Sr. Systems Reliability Engineer](https://interviewchamp.ai/jobs/zone5technologies-sr-systems-reliability-engineer-5461857008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $148k–$219k | Oct 23 |
-| **[Sierra](https://jobs.ashbyhq.com/sierra)** | **[Software Engineer, Cloud Infrastructure](https://interviewchamp.ai/jobs/sierra-software-engineer-cloud-infrastructure-4b28305d-e601-4328-a8f5-9f236bd718bd?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $230k–$390k | Oct 23 |
-| **[SoFi](https://sofi.com)** | **[Principal Software Engineer, Data Platform — Data Trust & AI Context](https://interviewchamp.ai/jobs/sofi-principal-software-engineer-data-platform-data-trust-ai-context-8037984003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | WA - Seattle; UT - Cottonwood Heights; CA - San Francisco | On-site |  | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 18:56 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 21:49 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

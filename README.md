@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,586 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,579 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,586, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,579, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,8 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Software Engineer](https://interviewchamp.ai/jobs/clera-software-engineer-1d8667c5-4af4-493b-9c6f-4ed504d90b72?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | From $250k | Oct 25 |
-| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Software Engineer](https://interviewchamp.ai/jobs/clera-software-engineer-09f35599-c269-4c5f-8131-150e7b8d75c0?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Oct 25 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[Robotics Engineer, Autonomous Systems](https://interviewchamp.ai/jobs/clera-robotics-engineer-autonomous-systems-76fcabd1-4506-4e76-b4e7-5b3d3dd82830?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Indianapolis, Indiana, United States | On-site |  | Oct 25 |
+| **[Atom Computing](https://jobs.lever.co/atomcomputing)** | **[Laser Engineer - Manufacturing](https://interviewchamp.ai/jobs/atomcomputing-laser-engineer-manufacturing-9d725c06-182a-45fa-b42f-9a38c8d3e3b5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boulder, CO | On-site | $120k–$150k | Oct 25 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior TPM, Mathematical Software & Algorithms](https://interviewchamp.ai/jobs/andurilindustries-senior-tpm-mathematical-software-algorithms-5274651007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Huntsville, Alabama, United States | On-site | $144k–$192k | Oct 25 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior TPM, Mathematical Software & Algorithms](https://interviewchamp.ai/jobs/andurilindustries-senior-tpm-mathematical-software-algorithms-5274650007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Waltham, Massachusetts, United States | On-site | $167k–$222k | Oct 25 |
 | **[Anduril Industries](https://anduril.com)** | **[Senior Software Engineer- Machine Learning](https://interviewchamp.ai/jobs/andurilindustries-senior-software-engineer-machine-learning-5274648007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Broomfield, Colorado, United States | On-site | $190k–$252k | Oct 24 |
@@ -45,6 +45,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Dexmate](https://jobs.ashbyhq.com/dexmate)** | **[Embedded Systems Engineer, Robotics](https://interviewchamp.ai/jobs/dexmate-embedded-systems-engineer-robotics-d180f4c3-d13a-4fe2-aa84-d4991ea4d0e0?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Fremont, California, United States | On-site | $100k–$300k | Oct 24 |
 | **[Rocket Lab Corporation](https://job-boards.greenhouse.io/rocketlab)** | **[Senior RF Radar Engineer I](https://interviewchamp.ai/jobs/rocketlab-senior-rf-radar-engineer-i-8004029003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, CA | On-site | $152.3k–$233.7k | Oct 24 |
 | **[Clera](https://jobs.ashbyhq.com/clera)** | **[QA Engineer](https://interviewchamp.ai/jobs/clera-qa-engineer-88dcd9dc-daf4-4366-bfc3-93e2c455b049?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $180k–$200k | Oct 24 |
+| **[Clera](https://jobs.ashbyhq.com/clera)** | **[GTM Engineer](https://interviewchamp.ai/jobs/clera-gtm-engineer-77d36695-0df5-47d2-a99a-faab6f52debd?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $160k–$220k | Oct 24 |
 | **[New Era Technology](https://job-boards.greenhouse.io/neweratech)** | **[Senior IT Infrastructure Project Manager (Network & Telecommunications)](https://interviewchamp.ai/jobs/neweratech-senior-it-infrastructure-project-manager-network-telecommunications-8914597002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, NY | On-site |  | Oct 24 |
 | **[HP IQ](https://job-boards.greenhouse.io/hpiq)** | **[Senior Quality Assurance Engineer](https://interviewchamp.ai/jobs/hpiq-senior-quality-assurance-engineer-6233902004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $120k–$188k | Oct 24 |
 | **[Reddit](https://reddit.com)** | **[Software Engineer, Ad Signals](https://interviewchamp.ai/jobs/reddit-software-engineer-ad-signals-8319655?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - United States | Remote | $190.8k–$267.1k | Oct 24 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Vermont Information Processing](https://job-boards.greenhouse.io/vipvermontinformationprocessing2)** | **[IBMi Engineer III](https://interviewchamp.ai/jobs/vipvermontinformationprocessing2-ibmi-engineer-iii-5274302007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Colchester, Vermont, United States | On-site | From $125k | Oct 23 |
 | **[Accenture Federal Services](https://accenturefederal.com)** | **[SAP ABAP Developer - BTP Integration Suite](https://interviewchamp.ai/jobs/accenturefederalservices-sap-abap-developer-btp-integration-suite-4724167006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $148.8k–$306.5k | Oct 23 |
 | **[SpaceX](https://spacex.com)** | **[Launch Pad Engineer, Fluid Systems](https://interviewchamp.ai/jobs/spacex-launch-pad-engineer-fluid-systems-8912649002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cape Canaveral, FL | On-site |  | Oct 23 |
-| **[Relativity Space](https://relativityspace.com)** | **[Manufacturing Engineer II, Machining](https://interviewchamp.ai/jobs/relativity-manufacturing-engineer-ii-machining-8910141002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Long Beach, California, United States | On-site | $104k–$156k | Oct 23 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-25 03:58 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-25 07:09 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,708 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,705 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,708, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,705, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Qualdoc](https://jobs.lever.co/qualdoc)** | **[CNC Machinist & Programmer – 1st Shift](https://interviewchamp.ai/jobs/qualdoc-cnc-machinist-programmer-1st-shift-ccf3bea0-6915-4575-8847-b500db4944fe?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Ashland, VA | On-site |  | Oct 27 |
 | **[SpaceX](https://spacex.com)** | **[Electrical Engineer (Starship Avionics)](https://interviewchamp.ai/jobs/spacex-electrical-engineer-starship-avionics-8882529002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Starbase, TX | On-site |  | Oct 27 |
 | **[Somana.tech](https://jobs.ashbyhq.com/somana.tech)** | **[Nix Engineer](https://interviewchamp.ai/jobs/somana-tech-nix-engineer-d3b88c4f-83cb-48b1-a9fd-4dbb5bd60a97?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City | On-site |  | Oct 27 |
 | **[Assembled](https://assembled.com)** | **[Software Engineer, Workforce Operations](https://interviewchamp.ai/jobs/assembledhq-software-engineer-workforce-operations-25d50672-8e19-4c6d-b406-4222dea68ff2?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote | $160k–$260k | Oct 27 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[stripe](https://stripe.com)** | **[Android Engineer, Identity](https://interviewchamp.ai/jobs/stripe-android-engineer-identity-8311069?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site |  | Oct 26 |
 | **[Lila Sciences](https://job-boards.greenhouse.io/lilasciences)** | **[Co-op, Mechatronics Engineer](https://interviewchamp.ai/jobs/lilasciences-co-op-mechatronics-engineer-4465068009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cambridge, MA USA | On-site |  | Oct 26 |
 | **[Lila Sciences](https://job-boards.greenhouse.io/lilasciences)** | **[Co-Op, Automated Systems Engineer](https://interviewchamp.ai/jobs/lilasciences-co-op-automated-systems-engineer-4462594009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Cambridge, MA USA | On-site |  | Oct 26 |
-| **[Coinbase](https://www.coinbase.com)** | **[Senior Security Engineer, Corporate Security](https://interviewchamp.ai/jobs/coinbase-senior-security-engineer-corporate-security-8319448?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $186.1k–$218.9k | Oct 26 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-27 07:16 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-27 10:04 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

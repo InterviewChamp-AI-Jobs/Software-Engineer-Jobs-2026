@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **15,914 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **15,912 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 15,914, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 15,912, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Builders at Gigs](https://gigs.com)** | **[Senior API Engineer](https://interviewchamp.ai/jobs/engineeringatgigs-senior-api-engineer-5018720101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York | On-site |  | Oct 28 |
+| **[HCompany](https://jobs.ashbyhq.com/hcompany)** | **[Founding Forward Deployed Engineer - US](https://interviewchamp.ai/jobs/hcompany-founding-forward-deployed-engineer-us-a17c028e-ace4-4fd6-bf8a-216269f5f708?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Hybrid New York (Remote) | Remote |  | Oct 28 |
+| **[Checkly](https://jobs.ashbyhq.com/checkly)** | **[Support Engineer (DevTools &amp; AI Reliability, remote)](https://interviewchamp.ai/jobs/checkly-support-engineer-devtools-ai-reliability-remote-0d236bb0-f860-4317-bc1c-84fed94d0f5a?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Eastern Time zone (Remote) | Remote | $43k–$87k | Oct 28 |
 | **[StarTree](https://job-boards.greenhouse.io/startree)** | **[Software Engineer I](https://interviewchamp.ai/jobs/startree-software-engineer-i-6235909004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US (Remote) | Remote |  | Oct 28 |
 | **[Quest Defense Systems &amp; Solutions, Inc.](https://www.quest-defense.com)** | **[Mechanical Engineer](https://interviewchamp.ai/jobs/questdefensesystemssolutionsinc-mechanical-engineer-5267068007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Tucson, AZ | On-site | $105k–$116k | Oct 28 |
 | **[Voyager Technologies, Inc.](https://job-boards.greenhouse.io/voyagertechnologiesinc)** | **[Electrical Engineer VI](https://interviewchamp.ai/jobs/voyagertechnologiesinc-electrical-engineer-vi-4465169009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Folsom, CA; Reno, NV | On-site | $162.7k–$261.7k | Oct 28 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Five9](https://www.five9.com)** | **[Senior Site Reliability Engineer - Storage Platforms](https://interviewchamp.ai/jobs/five9-senior-site-reliability-engineer-storage-platforms-6236797004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Ramon, CA (Hybrid) | Hybrid | $90.7k–$252.2k | Oct 27 |
 | **[Crusoe](https://jobs.ashbyhq.com/Crusoe)** | **[Senior Financial Analyst, Cloud Infrastructure - Finance](https://interviewchamp.ai/jobs/crusoe-senior-financial-analyst-cloud-infrastructure-finance-f50b9415-9657-4882-b0be-5e200c716776?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Sunnyvale, CA - US | On-site |  | Oct 27 |
 | **[Synapse Health](https://synapsehealth.com)** | **[Senior QA Engineer](https://interviewchamp.ai/jobs/synapsehealth-senior-qa-engineer-5273651007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote | $110k–$125k | Oct 27 |
-| **[Atwell, LLC](https://job-boards.greenhouse.io/atwellgroup)** | **[Civil Engineer - Land Development](https://interviewchamp.ai/jobs/atwellgroup-civil-engineer-land-development-5277612007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Lombard, Illinois, United States | On-site | $85k–$120k | Oct 27 |
-| **[Michels Corporation](https://job-boards.eu.greenhouse.io)** | **[Civil Design Engineer, Geostructural - Mi-Tech Services, Inc.](https://interviewchamp.ai/jobs/michelscorporation-civil-design-engineer-geostructural-mi-tech-services-inc-5018018101?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | State of Washington | On-site | $95k–$133k | Oct 27 |
-| **[CHAOS Industries](https://job-boards.greenhouse.io/chaosindustries)** | **[Senior Cloud Infrastructure Engineer](https://interviewchamp.ai/jobs/chaosindustries-senior-cloud-infrastructure-engineer-5277527007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA | On-site | $140k–$240k | Oct 27 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-28 07:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-28 10:11 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

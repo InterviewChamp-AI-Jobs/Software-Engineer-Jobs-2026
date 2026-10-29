@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **16,144 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **16,148 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,144, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 16,148, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Voyager Technologies, Inc.](https://job-boards.greenhouse.io/voyagertechnologiesinc)** | **[Senior Systems Engineer](https://interviewchamp.ai/jobs/voyagertechnologiesinc-senior-systems-engineer-4462420009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mojave, CA | On-site | $100k–$1500k | Oct 29 |
+| **[Thoughtworks](https://www.thoughtworks.com)** | **[Associate (Graduate) Developer](https://interviewchamp.ai/jobs/thoughtworks-associate-graduate-developer-8333235?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chicago, Illinois, USA | On-site |  | Oct 29 |
+| **[Qdrant.tech](https://jobs.ashbyhq.com/qdrant.tech)** | **[Senior Developer Relations Engineer (San Francisco, Los Angeles)](https://interviewchamp.ai/jobs/qdrant-tech-senior-developer-relations-engineer-san-francisco-los-angeles-988b05e0-b044-4a91-b49e-33a117ed23a8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco (Remote) | Remote |  | Oct 29 |
 | **[NeuralConcept](https://neuralconcept.com)** | **[Platform Deployment Engineer - West Coast](https://interviewchamp.ai/jobs/neuralconcept-platform-deployment-engineer-west-coast-89039678-9741-4d0a-b99b-b2bb9f22e6c1?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $200k–$250k | Oct 29 |
 | **[xAI](https://job-boards.greenhouse.io/xai)** | **[Sr. Mechanical Engineer - Memphis](https://interviewchamp.ai/jobs/xai-sr-mechanical-engineer-memphis-5278993007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Southaven, MS; Memphis, TN | On-site |  | Oct 29 |
 | **[66degrees](https://66degrees.com)** | **[Senior Cloud Engineer – Google Cloud (GCP)](https://interviewchamp.ai/jobs/66degrees-senior-cloud-engineer-google-cloud-gcp-6238188004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site |  | Oct 29 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[AEG Worldwide](https://aegworldwide.com)** | **[Salesforce Marketing Cloud (SFMC) Administrator &amp; Solutions Engineer](https://interviewchamp.ai/jobs/aegworldwide-salesforce-marketing-cloud-sfmc-administrator-solutions-engineer-8922262002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA | On-site |  | Oct 28 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[RF Test Engineer](https://interviewchamp.ai/jobs/astspacemobile-rf-test-engineer-4746280005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Midland, Texas, United States | On-site |  | Oct 28 |
 | **[Fanatics Collectibles](https://job-boards.greenhouse.io/fanaticscollectibles)** | **[Senior Analytics Engineer, Topps Digital](https://interviewchamp.ai/jobs/fanaticscollectibles-senior-analytics-engineer-topps-digital-4470119009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Los Angeles, CA, United States; New York, NY, United States | On-site | $140.1k–$175.2k | Oct 28 |
-| **[Verkada](https://verkada.com)** | **[Senior Backend Engineer](https://interviewchamp.ai/jobs/verkada-senior-backend-engineer-5278670007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA United States | On-site | $160k–$260k | Oct 28 |
-| **[Lucid Motors](https://lucidmotors.com)** | **[Staff CAD/PLM Engineer-Tools, Methods &amp; Engineering Quality](https://interviewchamp.ai/jobs/lucidmotors-staff-cad-plm-engineer-tools-methods-engineering-quality-5266260007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Newark, CA | On-site |  | Oct 28 |
-| **[airbnb](https://airbnb.com)** | **[Software Engineer, Payments](https://interviewchamp.ai/jobs/airbnb-software-engineer-payments-8332157?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, USA | Remote | $160k–$180k | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 10:13 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 13:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

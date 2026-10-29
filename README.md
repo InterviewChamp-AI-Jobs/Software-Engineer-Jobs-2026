@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **16,139 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **16,144 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,139, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 16,144, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[NeuralConcept](https://neuralconcept.com)** | **[Platform Deployment Engineer - West Coast](https://interviewchamp.ai/jobs/neuralconcept-platform-deployment-engineer-west-coast-89039678-9741-4d0a-b99b-b2bb9f22e6c1?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | West Coast (San Francisco/Bay Area) (Remote) | Remote | $200k–$250k | Oct 29 |
+| **[xAI](https://job-boards.greenhouse.io/xai)** | **[Sr. Mechanical Engineer - Memphis](https://interviewchamp.ai/jobs/xai-sr-mechanical-engineer-memphis-5278993007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Southaven, MS; Memphis, TN | On-site |  | Oct 29 |
+| **[66degrees](https://66degrees.com)** | **[Senior Cloud Engineer – Google Cloud (GCP)](https://interviewchamp.ai/jobs/66degrees-senior-cloud-engineer-google-cloud-gcp-6238188004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site |  | Oct 29 |
 | **[JFrog](https://jfrog.com)** | **[Senior Professional Services DevOps Engineer](https://interviewchamp.ai/jobs/jfrog-senior-professional-services-devops-engineer-8285651?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, US | Remote | $150k–$180k | Oct 29 |
 | **[Coinbase](https://www.coinbase.com)** | **[Staff Machine Learning Engineer, Compliance Automation (Platform)](https://interviewchamp.ai/jobs/coinbase-staff-machine-learning-engineer-compliance-automation-platform-8333165?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - USA | Remote | $218k–$256.5k | Oct 29 |
 | **[Anthropic](https://anthropic.com)** | **[Staff+ Software Engineer, Enterprise Connectivity](https://interviewchamp.ai/jobs/anthropic-staff-software-engineer-enterprise-connectivity-5173120008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA \| New York City, NY | On-site | $405k–$485k | Oct 29 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Verkada](https://verkada.com)** | **[Senior Backend Engineer](https://interviewchamp.ai/jobs/verkada-senior-backend-engineer-5278670007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA United States | On-site | $160k–$260k | Oct 28 |
 | **[Lucid Motors](https://lucidmotors.com)** | **[Staff CAD/PLM Engineer-Tools, Methods &amp; Engineering Quality](https://interviewchamp.ai/jobs/lucidmotors-staff-cad-plm-engineer-tools-methods-engineering-quality-5266260007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Newark, CA | On-site |  | Oct 28 |
 | **[airbnb](https://airbnb.com)** | **[Software Engineer, Payments](https://interviewchamp.ai/jobs/airbnb-software-engineer-payments-8332157?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, USA | Remote | $160k–$180k | Oct 28 |
-| **[Twilio](https://twilio.com)** | **[Machine Learning Engineer 2](https://interviewchamp.ai/jobs/twilio-machine-learning-engineer-2-8240487?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - US | Remote |  | Oct 28 |
-| **[Redwood Materials](https://redwoodmaterials.com)** | **[Staff Controls Engineer](https://interviewchamp.ai/jobs/redwoodmaterials-staff-controls-engineer-6226241004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Ridgeville, South Carolina, United States | On-site |  | Oct 28 |
-| **[Verkada](https://verkada.com)** | **[Staff Backend Engineer - Licensing &amp; Revenue Platform](https://interviewchamp.ai/jobs/verkada-staff-backend-engineer-licensing-revenue-platform-5278642007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA United States | On-site | $150k–$300k | Oct 28 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-29 07:29 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-29 10:13 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

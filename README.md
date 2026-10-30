@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **16,320 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **16,319 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,320, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 16,319, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Shield AI](https://jobs.lever.co/shieldai)** | **[Senior Applications Engineer, Maritime Autonomy (R6378)](https://interviewchamp.ai/jobs/shieldai-senior-applications-engineer-maritime-autonomy-r6378-02db91d4-cd4d-4def-977d-76b63b39aa9b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $130k–$200k | Oct 30 |
 | **[Anduril Industries](https://anduril.com)** | **[Product Support Engineer - Altius 600](https://interviewchamp.ai/jobs/andurilindustries-product-support-engineer-altius-600-5280003007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Atlanta, Georgia, United States | On-site | $114k–$171k | Oct 30 |
 | **[Delinea](https://jobs.ashbyhq.com/delinea)** | **[Customer Success Engineer](https://interviewchamp.ai/jobs/delinea-customer-success-engineer-7f19d44c-8df7-4c93-9b69-d0870db15d69?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | U.S. Remote | Remote | $89.8k–$112.2k | Oct 30 |
 | **[Delinea](https://jobs.ashbyhq.com/delinea)** | **[Customer Success Engineer](https://interviewchamp.ai/jobs/delinea-customer-success-engineer-cae63b42-e885-4308-9b23-a14c50468abe?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | U.S. Remote | Remote | $89.8k–$112.2k | Oct 30 |
@@ -103,7 +104,6 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Zoox](https://zoox.com)** | **[Systems Engineer, Motion Controls Safety](https://interviewchamp.ai/jobs/zoox-systems-engineer-motion-controls-safety-6e2c1641-a814-43ad-a807-34f585a35fd9?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Foster City, CA | Hybrid | $194k–$244k | Oct 29 |
 | **[Applied Intuition](https://appliedintuition.com)** | **[Software Engineer- Maps Rendering](https://interviewchamp.ai/jobs/applied-software-engineer-maps-rendering-88cd29c0-a142-4f7a-b9ea-be557bac9624?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Sunnyvale | On-site | $175k–$230k | Oct 29 |
 | **[Natera](https://job-boards.greenhouse.io/natera)** | **[Staff Software Engineer](https://interviewchamp.ai/jobs/natera-staff-software-engineer-6232923004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US Remote | Remote | $152.1k–$190.1k | Oct 29 |
-| **[Natera](https://job-boards.greenhouse.io/natera)** | **[Senior Software Engineer](https://interviewchamp.ai/jobs/natera-senior-software-engineer-6232841004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US Remote | Remote | $125k–$156.3k | Oct 29 |
 | **[Turion Space](https://turionspace.com)** | **[Senior Propulsion Engineer, Cryogenic &amp; Chemical Systems](https://interviewchamp.ai/jobs/turion-space-senior-propulsion-engineer-cryogenic-chemical-systems-5640f6d1-05df-49ee-bf7d-017d62792a92?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Irvine, CA | On-site | $150k–$200k | Oct 29 |
 | **[Avantos AI](https://jobs.ashbyhq.com/avantos)** | **[Senior Software Engineer, AI Platform](https://interviewchamp.ai/jobs/avantos-senior-software-engineer-ai-platform-2f94ea3a-0ce7-4c41-8160-9355474e0890?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City (Remote) | Remote |  | Oct 29 |
 | **[SpaceX](https://spacex.com)** | **[Sr. IT Wireless Network Engineer](https://interviewchamp.ai/jobs/spacex-sr-it-wireless-network-engineer-8924353002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Memphis, TN | On-site |  | Oct 29 |
@@ -185,4 +185,4 @@ Software engineering roles in the US and remote, from employers' own career page
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-30 07:29 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-30 10:14 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

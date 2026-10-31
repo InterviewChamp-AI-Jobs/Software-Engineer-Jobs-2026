@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **16,598 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **16,589 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 16,598, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 16,589, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Supabase](https://jobs.ashbyhq.com/supabase)** | **[Software Engineer - AI Tooling Infrastructure](https://interviewchamp.ai/jobs/supabase-software-engineer-ai-tooling-infrastructure-fb0b563a-e541-43fd-8555-9eb6473aaa11?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote, Global | Remote |  | Oct 31 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Space Avionics Hardware Development Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-space-avionics-hardware-development-engineer-8113437003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $140.3k–$202.7k | Oct 31 |
 | **[Varda Space Industries](https://varda.com)** | **[Principal Space Avionics Hardware Development Engineer](https://interviewchamp.ai/jobs/vardaspace-principal-space-avionics-hardware-development-engineer-8113436003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $181.9k–$262.8k | Oct 31 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Space Avionics Test Engineer](https://interviewchamp.ai/jobs/vardaspace-senior-space-avionics-test-engineer-8113435003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $140.3k–$202.7k | Oct 31 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Cloudflare](https://cloudflare.com)** | **[Global Vendor Manager, Data Center Infrastructure](https://interviewchamp.ai/jobs/cloudflare-global-vendor-manager-data-center-infrastructure-8328089?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Atlanta, GA; Austin, TX, United States; Denver, Colorado, United States; Seattle, WA; Washington, DC, United States | Hybrid |  | Oct 30 |
 | **[Suno](https://jobs.ashbyhq.com/suno)** | **[Senior / Staff Software Engineer, Data Infrastructure](https://interviewchamp.ai/jobs/suno-senior-staff-software-engineer-data-infrastructure-9401ddbc-f1df-429c-ab35-9d3485e02785?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Boston | On-site | $229k–$363.5k | Oct 30 |
 | **[AlphaSense](https://alphasense.com)** | **[Principal Engineer, Data Platform](https://interviewchamp.ai/jobs/alphasense-principal-engineer-data-platform-8925866002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - United States | Remote | $246k–$339k | Oct 30 |
-| **[Nintendo](https://careers.nintendo.com)** | **[Intern - Software Engineer, Graphics (NTD)](https://interviewchamp.ai/jobs/nintendo-intern-software-engineer-graphics-ntd-4473550009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Redmond, WA | On-site |  | Oct 30 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-10-31 07:22 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-10-31 15:24 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

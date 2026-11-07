@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **17,497 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **17,500 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 17,497, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 17,500, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Sustainable Talent](https://job-boards.greenhouse.io/sustainabletalent)** | **[Senior HRSD Developer-ServiceNow supporting Nvidia](https://interviewchamp.ai/jobs/sustainabletalent-senior-hrsd-developer-servicenow-supporting-nvidia-4752423005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Santa Clara, CA | On-site |  | Nov 7 |
+| **[WEKA](https://www.weka.io)** | **[Field CTO - AI Infrastructure &amp; Neocloud, Americas (Bay Area-based)](https://interviewchamp.ai/jobs/wekatest-field-cto-ai-infrastructure-neocloud-americas-bay-area-based-5287147007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Campbell, CA | On-site |  | Nov 7 |
 | **[Higgsfield](https://jobs.ashbyhq.com/higgsfieldai)** | **[Data Engineer](https://interviewchamp.ai/jobs/higgsfieldai-data-engineer-2fce2fe7-b554-4330-8fed-c59fa85f3415?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco Bay Area, USA (Remote) | Remote | $200k–$260k | Nov 7 |
 | **[Divergent](https://job-boards.greenhouse.io/divergent)** | **[Senior Design Engineer](https://interviewchamp.ai/jobs/divergent-senior-design-engineer-5475101008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Torrance, California, United States | On-site | $106k–$194.4k | Nov 7 |
 | **[Valon](https://valon.com)** | **[Senior Product Manager, Product Infrastructure](https://interviewchamp.ai/jobs/valon-senior-product-manager-product-infrastructure-0f1fbd7d-e30d-4b8c-9e3d-04ff6bfd7638?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York (Remote) | Remote | $200k–$235k | Nov 7 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Braintrust](https://braintrust.com)** | **[GTM Engineer](https://interviewchamp.ai/jobs/braintrust-gtm-engineer-65e834aa-ef60-45de-aed6-bc0fe9066f09?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site |  | Nov 6 |
 | **[Parasail](https://jobs.ashbyhq.com/parasail)** | **[Lead Developer Advocate](https://interviewchamp.ai/jobs/parasail-lead-developer-advocate-08e8ddc5-e24a-45bc-bdf6-691b918f2ede?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo (Remote) | Remote |  | Nov 6 |
 | **[Octus](https://job-boards.greenhouse.io/octus)** | **[Sr. Security Engineer](https://interviewchamp.ai/jobs/octus-sr-security-engineer-5287597007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote - US | Remote |  | Nov 6 |
-| **[MetroStar](https://metrostar.com)** | **[Information Systems Security Engineer (6905)](https://interviewchamp.ai/jobs/metrostarsystems-information-systems-security-engineer-6905-8196151003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Reston, VA | On-site | $170k–$200k | Nov 6 |
-| **[IronMountain Solutions](https://job-boards.greenhouse.io/ironmountainsolutions)** | **[Army Launched Effects Software Safety Engineer](https://interviewchamp.ai/jobs/ironmountainsolutions-army-launched-effects-software-safety-engineer-5287821007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Huntsville, AL | On-site |  | Nov 6 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-07 10:29 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-07 17:47 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

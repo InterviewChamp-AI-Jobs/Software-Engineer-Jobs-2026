@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **18,077 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **18,067 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,077, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 18,067, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,7 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Overjet](https://jobs.ashbyhq.com/Overjet)** | **[Forward Deployed Engineer](https://interviewchamp.ai/jobs/overjet-forward-deployed-engineer-d863f326-49c9-41fb-84bb-bb1ddb72ef12?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo, CA (Remote) | Remote |  | Nov 14 |
 | **[OKX](https://job-boards.greenhouse.io/okx)** | **[Sr. Software Engineer, Machine Learning &amp; Data Infrastructure](https://interviewchamp.ai/jobs/okx-sr-software-engineer-machine-learning-data-infrastructure-8187582003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, California, United States | On-site | $178.9k–$268.3k | Nov 14 |
 | **[OneStream](https://job-boards.greenhouse.io/onestream)** | **[Senior Director, Software and Quality Engineering](https://interviewchamp.ai/jobs/onestream-senior-director-software-and-quality-engineering-4480456009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site | $229k–$297.5k | Nov 14 |
 | **[Rox Data Corp](https://jobs.ashbyhq.com/Rox-Data-Corp)** | **[InfoSec Engineer (Risk and Compliance)](https://interviewchamp.ai/jobs/rox-data-corp-infosec-engineer-risk-and-compliance-88122e39-b638-49b5-8e25-6b2483c47155?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $180k–$220k | Nov 14 |
@@ -181,8 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Holder Construction](https://job-boards.greenhouse.io/holderconstruction)** | **[Operations - Senior Engineer](https://interviewchamp.ai/jobs/holderconstruction-operations-senior-engineer-4507253009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mooresville, IN | On-site |  | Nov 13 |
 | **[Tennr](https://jobs.ashbyhq.com/tennr)** | **[Senior IT Systems Engineer](https://interviewchamp.ai/jobs/tennr-senior-it-systems-engineer-b888c69f-2bce-4231-82af-3d55a36ac244?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York City Office | On-site | $135k–$155k | Nov 13 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Mechanical Design Engineer, Support Equipment](https://interviewchamp.ai/jobs/vardaspace-senior-mechanical-design-engineer-support-equipment-8203834003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | El Segundo, California, United States | On-site | $140.3k–$179.3k | Nov 13 |
-| **[Business Insider](https://www.businessinsider.com)** | **[Programmer, Streaming &amp; Video Operations](https://interviewchamp.ai/jobs/insider-programmer-streaming-video-operations-6261740004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | New York, New York, United States | On-site | $95k–$100k | Nov 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-14 10:42 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-14 18:21 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

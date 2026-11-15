@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **18,071 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **18,052 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,071, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 18,052, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Brain Corp](https://www.braincorp.com)** | **[Technical Support Engineer, Spanish Bilingual (6 Month Contract)](https://interviewchamp.ai/jobs/braincorporation-technical-support-engineer-spanish-bilingual-6-month-contract-8944153002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Diego, CA | On-site |  | Nov 15 |
+| **[Woodard &amp; Curran](https://jobs.lever.co/woodardcurran)** | **[SCADA Controls Automation Engineer](https://interviewchamp.ai/jobs/woodardcurran-scada-controls-automation-engineer-db95fd2c-f2bf-4e9d-9723-fd7d05aa7511?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Rye Brook, NY | Hybrid | $90k–$105k | Nov 15 |
+| **[Airwallex](https://airwallex.com)** | **[Senior Software Engineer, Data Platform &amp; AI Enablement](https://interviewchamp.ai/jobs/airwallex-senior-software-engineer-data-platform-ai-enablement-664bb020-bdda-4004-8e6e-b7d504123f9b?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | US - Seattle (Remote) | Remote | $180k–$240k | Nov 15 |
 | **[Zenos](https://jobs.ashbyhq.com/zenos)** | **[Mechanical Engineer](https://interviewchamp.ai/jobs/zenos-mechanical-engineer-6921ed12-33b2-477b-85af-ea6bc4fff299?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Mateo Werqwise | On-site |  | Nov 15 |
 | **[Aquabyte](https://jobs.lever.co/aquabyte)** | **[Mechanical Engineer](https://interviewchamp.ai/jobs/aquabyte-mechanical-engineer-38546b62-6e5d-463f-bed1-3587c0404142?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco Bay Area | Hybrid | $150k–$180k | Nov 15 |
 | **[SpaceX](https://spacex.com)** | **[Full Stack Software Engineer (Starlink)](https://interviewchamp.ai/jobs/spacex-full-stack-software-engineer-starlink-8943586002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto, CA | On-site |  | Nov 15 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[SambaNova Systems](https://sambanova.ai)** | **[Principal Design Verifiction Engineer](https://interviewchamp.ai/jobs/sambanovasystems-principal-design-verifiction-engineer-6261758004?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Jose, California, United States | On-site | $180k–$225k | Nov 13 |
 | **[Chamber Cardio](https://jobs.ashbyhq.com/chambercardio)** | **[Staff Product Engineer](https://interviewchamp.ai/jobs/chambercardio-staff-product-engineer-51ddc140-bc9a-4830-a15b-d81469579f73?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote | Remote |  | Nov 13 |
 | **[ABM Industries](https://abm.com)** | **[Union Chief Engineer](https://interviewchamp.ai/jobs/ableserve-union-chief-engineer-b784124d-ac3c-4aa3-ab42-36caaa2e98c5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, WA | On-site |  | Nov 13 |
-| **[Hoopaugh Grading Company, LLC](https://recruiting.paylocity.com)** | **[Software Support &amp; Integration Specialist](https://interviewchamp.ai/jobs/hoopaugh-grading-company-llc-software-support-integration-specialist-4665967?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Charlotte, NC | On-site |  | Nov 13 |
-| **[Coupang Internal](https://boards.greenhouse.io/coupanginternal)** | **[Director of Backend Engineering](https://interviewchamp.ai/jobs/coupanginternal-director-of-backend-engineering-8386064?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, USA | On-site | From $159k | Nov 13 |
-| **[Coupang](https://www.coupang.jobs)** | **[Director of Backend Engineering](https://interviewchamp.ai/jobs/coupang-director-of-backend-engineering-8386063?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, USA | On-site | From $159k | Nov 13 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-15 06:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-15 16:28 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

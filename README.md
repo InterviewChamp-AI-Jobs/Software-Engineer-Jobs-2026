@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **18,689 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **18,660 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,689, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 18,660, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,8 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Tenstorrent](https://tenstorrent.com)** | **[Principal Engineer, SoC Platform Architect](https://interviewchamp.ai/jobs/tenstorrent-principal-engineer-soc-platform-architect-5299561007?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Austin, Texas, United States; Santa Clara, California, United States | On-site |  | Nov 22 |
+| **[Accenture Federal Services](https://accenturefederal.com)** | **[Technical Scrum Master (Infrastructure &amp; Cybersecurity)](https://interviewchamp.ai/jobs/accenturefederalservices-technical-scrum-master-infrastructure-cybersecurity-4731468006?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Washington, DC | On-site | $94k–$178.7k | Nov 22 |
 | **[Testlio](https://testlio.com)** | **[Remote Software Tester (Freelance) \| Test AT&amp;T U-verse &amp; Cox](https://interviewchamp.ai/jobs/testlio-remote-software-tester-freelance-test-at-t-u-verse-cox-8410174?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States | On-site |  | Nov 22 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Research Engineer / Research Scientist, Health](https://interviewchamp.ai/jobs/openai-research-engineer-research-scientist-health-6785d983-8831-46d0-9c81-443f83664948?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $380k–$500k | Nov 22 |
 | **[OpenAI](https://jobs.ashbyhq.com/openai)** | **[Research Engineer / Research Scientist, Human Flourishing](https://interviewchamp.ai/jobs/openai-research-engineer-research-scientist-human-flourishing-740b5d1b-f63d-49bb-962d-8e2778e925ef?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $380k–$500k | Nov 22 |
@@ -180,9 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Axon](https://axon.com)** | **[Dedrone Sales Engineer II](https://interviewchamp.ai/jobs/axon-dedrone-sales-engineer-ii-8211000003?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Sterling, Virginia, United States | On-site |  | Nov 20 |
 | **[Shield](https://jobs.ashbyhq.com/shield)** | **[Engineer II, Software - Internal Tools](https://interviewchamp.ai/jobs/shield-engineer-ii-software-internal-tools-390c6f23-ad81-4969-80ce-6d5a193fd3b3?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Seattle, WA, US | On-site | $130.5k–$195.7k | Nov 20 |
 | **[Pave](https://job-boards.greenhouse.io/paveakatroveinformationtechnologies)** | **[Compensation Engineer](https://interviewchamp.ai/jobs/paveakatroveinformationtechnologies-compensation-engineer-4757448005?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco, CA &amp; New York, NY &amp; Salt Lake City, UT | On-site |  | Nov 20 |
-| **[Prosper](https://jobs.lever.co/prosper)** | **[Sr. Application Security Engineer](https://interviewchamp.ai/jobs/prosper-sr-application-security-engineer-b907c840-14c0-4d84-9649-4417b3e323ed?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote | $190k–$220k | Nov 20 |
-| **[T-Rex Solutions](https://www.trexsolutionsllc.com)** | **[Azure Cloud Network Engineer](https://interviewchamp.ai/jobs/trexsolutions-azure-cloud-network-engineer-8957356002?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | 100% Remote | Remote | $100k–$155k | Nov 20 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-22 19:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-23 01:52 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.

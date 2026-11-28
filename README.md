@@ -2,9 +2,9 @@
 
 <p align="center"><a href="https://interviewchamp.ai/?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs"><img src="https://interviewchamp.ai/icon.png" width="88" alt="InterviewChamp.AI"></a></p>
 
-Software engineering roles in the US and remote, from employers' own career pages. **18,889 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
+Software engineering roles in the US and remote, from employers' own career pages. **18,891 are live right now.** This list shows the newest 150 posted in the last 7 days and refreshes every few hours.
 
-👉 **See all 18,889, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
+👉 **See all 18,891, with filters, free and with no login: [interviewchamp.ai/jobs](https://interviewchamp.ai/jobs?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)**
 
 ## Get hired faster with InterviewChamp.AI
 
@@ -32,6 +32,9 @@ Software engineering roles in the US and remote, from employers' own career page
 
 | Company | Job Title | Location | Work Model | Salary | Date Posted |
 | --- | --- | --- | --- | --- | --- |
+| **[Blue Sky Innovators](https://job-boards.greenhouse.io/blueskyinnovators)** | **[Ground Enterprise Systems Engineer](https://interviewchamp.ai/jobs/blueskyinnovators-ground-enterprise-systems-engineer-5495903008?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Chantilly, VA | On-site | $70k–$110k | Nov 28 |
+| **[Waymo](https://waymo.com)** | **[Senior Systems Engineer, Vehicle Security](https://interviewchamp.ai/jobs/waymo-senior-systems-engineer-vehicle-security-8422771?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Mountain View, CA, USA | On-site | $196k–$242k | Nov 28 |
+| **[Space Systems Command](https://www.usajobs.gov)** | **[Electronics Engineer/Program Manager](https://interviewchamp.ai/jobs/space-systems-command-usajobs-electronics-engineer-program-manager-894462600?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Vandenberg AFB, California | On-site | $104,349–$161,313 | Nov 28 |
 | **[Walrusfi](https://jobs.ashbyhq.com/walrusfi)** | **[Senior Software Engineer (Full Stack)](https://interviewchamp.ai/jobs/walrusfi-senior-software-engineer-full-stack-aa6fd41d-bdbd-4e88-bf32-73af8aa3a662?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Remote (US) | Remote |  | Nov 28 |
 | **[Terac](https://jobs.ashbyhq.com/terac)** | **[Software Engineers\: Interview on AI Coding Tools](https://interviewchamp.ai/jobs/terac-software-engineers-interview-on-ai-coding-tools-9b04262b-2b03-4705-97af-d5bd6e84ac20?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | United States (Remote) | Remote |  | Nov 28 |
 | **[Interface AI](https://jobs.ashbyhq.com/interface-ai)** | **[Chief Engineer (Principal Engineer)](https://interviewchamp.ai/jobs/interface-ai-chief-engineer-principal-engineer-52c53261-0875-42bc-b0f9-0e9ee1ca0d22?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $345k–$375k | Nov 28 |
@@ -179,10 +182,7 @@ Software engineering roles in the US and remote, from employers' own career page
 | **[Cowboyspace](https://jobs.ashbyhq.com/cowboyspace)** | **[Mechanical Design Engineer, Valves](https://interviewchamp.ai/jobs/cowboyspace-mechanical-design-engineer-valves-5d2047d1-3d98-49d5-8e1c-b9d20b981dac?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Kent, Washington | On-site | $207k–$264.5k | Nov 25 |
 | **[Quindar](https://jobs.ashbyhq.com/quindar)** | **[Staff Software Engineer, Rapid Development](https://interviewchamp.ai/jobs/quindar-staff-software-engineer-rapid-development-0a64ad5f-dba9-4891-aca2-486296d8f6ec?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Denver, CO (Remote) | Remote |  | Nov 25 |
 | **[Ridealso](https://jobs.ashbyhq.com/Ridealso)** | **[Senior Staff Software Engineer, Manufacturing Software](https://interviewchamp.ai/jobs/ridealso-senior-staff-software-engineer-manufacturing-software-cee23358-aa58-4a3d-a2f7-c69b399cfc7c?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | Palo Alto | On-site | $225k–$265k | Nov 25 |
-| **[Astro Mechanica](https://jobs.ashbyhq.com/Astro-Mechanica)** | **[Structural Design Engineer II](https://interviewchamp.ai/jobs/astro-mechanica-structural-design-engineer-ii-e7fea3f6-9f64-4f51-a507-5f647c2cf5f5?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $140k–$170k | Nov 25 |
-| **[Astro Mechanica](https://jobs.ashbyhq.com/Astro-Mechanica)** | **[Structural Analysis Engineer II](https://interviewchamp.ai/jobs/astro-mechanica-structural-analysis-engineer-ii-c79df862-7d72-457d-ae98-36782ef828f8?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | San Francisco | On-site | $140k–$170k | Nov 25 |
-| **[Island](https://job-boards.greenhouse.io/island)** | **[Sales Engineer - Channel](https://interviewchamp.ai/jobs/island-sales-engineer-channel-4411445009?utm_source=github&utm_medium=referral&utm_campaign=software_engineer_jobs)** | USA | On-site |  | Nov 25 |
 
 More lists: [Remote Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Jobs-2026) · [Remote Software Engineer Jobs](https://github.com/InterviewChamp-AI-Jobs/Remote-Software-Engineer-Jobs-2026) · [New Grad and Entry-Level Jobs](https://github.com/InterviewChamp-AI-Jobs/New-Grad-Jobs-2026) · [Internships](https://github.com/InterviewChamp-AI-Jobs/Internships-2026)
 
-Updated 2026-11-28 08:11 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
+Updated 2026-11-28 17:40 UTC. Every job links to its page on InterviewChamp.AI, which links straight to the employer's official application. Found a closed job or a wrong detail? Open an issue.
